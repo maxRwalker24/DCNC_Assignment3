@@ -6,8 +6,11 @@ import gradio as gr
 from app.session_ingest import get_context_and_prompt, CATEGORY_MAP
 from app.bedrock_invoke import invoke_bedrock
 
-DEFAULT_CATEGORY = "Policy & Admin Guide"  # UI label
+DEFAULT_CATEGORY = "Auto (recommended)"  # ✅ new default
+AUTO_LABEL = "Auto (recommended)"
 CATEGORIES = list(CATEGORY_MAP.keys())
+CHOICES = [AUTO_LABEL] + CATEGORIES      # ✅ prepend Auto to the list
+
 
 def answer_fn(user_query, category_label, k, temperature, top_p):
     if not user_query or not user_query.strip():
@@ -45,7 +48,12 @@ def build_ui():
         )
 
         with gr.Row():
-            category = gr.Dropdown(choices=CATEGORIES, value=DEFAULT_CATEGORY, label="Assistant Role")
+            category = gr.Dropdown(
+            choices=CHOICES,                    # ✅ was CATEGORIES
+            value=DEFAULT_CATEGORY,             # ✅ now "Auto (recommended)"
+            label="Assistant Role"
+        )
+
             k = gr.Slider(1, 8, value=4, step=1, label="Snippets (Top-K)")
             temperature = gr.Slider(0.0, 1.0, value=0.3, step=0.05, label="Temperature")
             top_p = gr.Slider(0.1, 1.0, value=0.9, step=0.05, label="Top-p")

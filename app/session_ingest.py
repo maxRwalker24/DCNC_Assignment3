@@ -7,6 +7,35 @@ import joblib
 from scipy import sparse
 from sklearn.metrics.pairwise import cosine_similarity
 
+AUTO_ROLE = "auto"
+
+ROLE_KEYWORDS = {
+    "policy_admin": {
+        "assessment","extension","extensions","special consideration","appeal","appeals",
+        "census","enrol","enrolment","credit","rpl","grade","misconduct","integrity","plagiarism"
+    },
+    "study_skills": {
+        "study","time management","time-management","referencing","reference","writing",
+        "learning lab","group work","teamwork","note-taking","revision","exam tips"
+    },
+    "identity_access": {
+        "equitable learning","elp","els","accessibility","disability","neurodivergent","adhd",
+        "autism","dyslexia","gender affirmation","pronoun","name change","lgbtiqa","queer",
+        "safer community","wellbeing","counselling","counseling","mental","anxiety","depression"
+    },
+}
+
+def detect_role(user_query: str) -> str:
+    q = user_query.lower()
+    scores = {k: 0 for k in ROLE_KEYWORDS}
+    for role, terms in ROLE_KEYWORDS.items():
+        for t in terms:
+            if t in q:
+                scores[role] += 1
+    # pick the highest, or fall back to general
+    best = max(scores, key=scores.get)
+    return best if scores[best] > 0 else "general"
+
 
 # ---------- Load artefacts ----------
 
@@ -46,65 +75,177 @@ def _load_kb():
         _KB = recs
     return _KB
 
+# ---------- Retrieval ----------
+from typing import Optional, List, Dict
+from sklearn.metrics.pairwise import cosine_similarity
+
+# ---------- Query expansion ----------
+def _expand_query(q: str) -> str:
+    """Lightweight normalization + synonym expansion to improve TF-IDF hit rate."""
+    ql = q.lower()
+
+    # Normalizations
+    replacements = {
+        "well-being": "wellbeing",
+        "well being": "wellbeing",
+        "counseling": "counselling",  # US -> AU/UK spelling
+        "depressed": "depression",
+        "anxious": "anxiety",
+    }
+    for a, b in replacements.items():
+        ql = ql.replace(a, b)
+
+    # Synonym expansion (very small; safe for short queries)
+    synonyms = [
+        ("depression", ["depressed", "low mood", "sadness"]),
+        ("anxiety", ["anxious", "panic"]),
+        ("wellbeing", ["mental health", "well-being", "well being"]),
+        ("counselling", ["counseling", "therapy", "support"]),
+    ]
+    expanded = [ql]
+    for head, alts in synonyms:
+        if any(term in ql for term in [head] + alts):
+            expanded.append(head)
+            expanded.extend(alts)
+
+    # De-dup tokens while preserving order
+    tokens = list(dict.fromkeys(" ".join(expanded).split()))
+    return " ".join(tokens)
+
+# ---------- Intent-aware document boost ----------
+def _is_mental_intent(query: str) -> bool:
+    terms = {"mental", "wellbeing", "well-being", "counselling", "counseling", "anxiety", "depress", "therapy", "support"}
+    ql = query.lower()
+    return any(t in ql for t in terms)
+
+def _doc_boost(rec: Dict, is_mental: bool) -> float:
+    """Tiny additive boost for wellbeing/mental-health docs when query intent matches."""
+    if not is_mental:
+        return 0.0
+    score = 0.0
+    txt   = (rec.get("text")   or "").lower()
+    title = (rec.get("title")  or "").lower()
+    src   = (rec.get("source") or "").lower()
+    tags  = set(rec.get("tags") or [])
+
+    # Tags signal (if you stored tags in KB)
+    if {"wellbeing", "safer-community"} & tags:
+        score += 0.06
+
+    # Text / title / path hints
+    if any(t in txt   for t in ("wellbeing", "counselling", "counseling", "mental", "anxiety", "depression")):
+        score += 0.06
+    if any(t in title for t in ("wellbeing", "counselling", "mental", "anxiety", "depression")):
+        score += 0.04
+    if "wellbeing" in src or "mental" in src:
+        score += 0.02
+
+    return score
+
+CATEGORY_BOOST = {"policy_admin": 0.02, "study_skills": 0.02, "identity_access": 0.03, "general": 0.0}
+
+def _cat_boost(rec: dict, preferred_category: str | None) -> float:
+    if not preferred_category:
+        return 0.0
+    return CATEGORY_BOOST.get(rec.get("category"), 0.0) if rec.get("category") == preferred_category else 0.0
+
 
 # ---------- Retrieval ----------
-# app/session_ingest.py
-def retrieve(query: str, k: int = 4, category: Optional[str] = None,
-             diversify: bool = True, per_source: int = 2) -> List[Dict]:
+from typing import Optional, List, Dict
+from sklearn.metrics.pairwise import cosine_similarity
+
+def retrieve(
+    query: str,
+    k: int = 4,
+    category: Optional[str] = None,              # hard filter (None = search all)
+    diversify: bool = True,
+    per_source: int = 2,
+    fetch_k: int = 40,
+    preferred_category: Optional[str] = None,     # soft target for boosting
+) -> List[Dict]:
+    """
+    Retrieve top-k chunks for `query`.
+    - If `category` is set, we hard-filter to that category.
+    - `preferred_category` softly boosts items in that category even when searching widely.
+    - Handles zero-similarity fallback and intent-aware (mental-health) boosting.
+    - Diversifies results with a per-source cap.
+    """
     kb = _load_kb()
     vec = _load_vectorizer()
-    X = _load_matrix()
-    qv = vec.transform([query])
+    X   = _load_matrix()
 
-    def doc_key(r):
-        return r.get("doc_id") or r.get("source") or r.get("title") or r.get("url") or "?"
+    # 1) Expand query BEFORE vectorization
+    expanded_query = _expand_query(query)
+    qv = vec.transform([expanded_query])
 
+    # 2) Raw cosine similarities
+    sims_all = cosine_similarity(qv, X)[0]
+
+    # 3) Candidate index set (optional hard category filter)
     if category:
         idxs = [i for i, r in enumerate(kb) if r.get("category") == category]
         if not idxs:
             return []
-        sub_X = X[idxs, :]
-        sims = cosine_similarity(qv, sub_X)[0]
-        order = sims.argsort()[::-1]
-        counts = {}
-        top = []
-        for local_i in order:
-            i = idxs[local_i]
-            r = kb[i].copy()
-            key = doc_key(r)
-            if diversify:
-                c = counts.get(key, 0)
-                if c >= per_source:
-                    continue
-                counts[key] = c + 1
-            r["score"] = float(sims[local_i])
-            top.append(r)
-            if len(top) >= k:
-                break
-        for rank, r in enumerate(top, start=1):
-            r["rank"] = rank
-        return top
+    else:
+        idxs = list(range(len(kb)))
 
-    # no category
-    sims = cosine_similarity(qv, X)[0]
-    order = sims.argsort()[::-1]
-    counts = {}
-    top = []
-    for i in order:
+    # 4) Build candidate pool (zero-sim fallback if needed)
+    if sims_all.max() == 0.0:
+        KEY_TERMS = {
+            "depression", "depressed", "anxiety", "anxious",
+            "wellbeing", "well-being", "counselling", "counseling",
+            "mental", "support"
+        }
+        prelim = []
+        for i in idxs:
+            txt = (kb[i].get("text") or "").lower()
+            if any(term in txt for term in KEY_TERMS):
+                prelim.append(i)
+        if prelim:
+            pre = prelim[:max(fetch_k, k)]
+        else:
+            pre = idxs[:max(fetch_k, k)]
+    else:
+        pre = sorted(idxs, key=lambda i: sims_all[i], reverse=True)[:max(fetch_k, k)]
+
+    # 5) Score with intent + category boosts
+    is_mental = _is_mental_intent(query)
+    scored: List[tuple[int, float, float]] = []
+    for i in pre:
+        base = float(sims_all[i])
+        boosted = base
+        boosted += _doc_boost(kb[i], is_mental)                 # intent-aware boost
+        boosted += _cat_boost(kb[i], preferred_category)        # soft category boost (Auto mode)
+        scored.append((i, boosted, base))
+
+    # 6) Re-rank by boosted score
+    scored.sort(key=lambda t: t[1], reverse=True)
+
+    # 7) Diversify with per-source cap, take top-k
+    def doc_key(r: Dict) -> str:
+        return r.get("doc_id") or r.get("source") or r.get("title") or r.get("url") or "?"
+
+    counts: Dict[str, int] = {}
+    top: List[Dict] = []
+    for i, boosted, base in scored:
         r = kb[i].copy()
         key = doc_key(r)
-        if diversify:
-            c = counts.get(key, 0)
-            if c >= per_source:
-                continue
-            counts[key] = c + 1
-        r["score"] = float(sims[i])
+        if diversify and counts.get(key, 0) >= per_source:
+            continue
+        counts[key] = counts.get(key, 0) + 1
+        r["score"]   = boosted     # boosted score (debug/UI)
+        r["sim_raw"] = base        # raw cosine (debug/UI)
         top.append(r)
         if len(top) >= k:
             break
+
+    # 8) Assign rank
     for rank, r in enumerate(top, start=1):
         r["rank"] = rank
+
     return top
+
+
 
 
 
@@ -215,23 +356,26 @@ def build_prompt(user_query: str, role_key: str, context_text: str) -> str:
         f"{user_query}\n\n"
 
         "### Instructions\n"
-        "- You MUST use the context accurately and ONLY use facts that appear in the snippets above.\n"
-        "- Always cite the source marker ([S1], [S2], [S3]...) **immediately after** each factual claim.\n"
-        "- If multiple snippets contain relevant facts, distribute citations across all appropriate [S#] sources.\n"
-        "- Do NOT repeatedly cite the same marker unless ALL referenced facts come from that same snippet.\n"
-        "- Never default to [S1]. If a detail is not in the context, write: (no source).\n"
-        "- If the context is insufficient, explicitly state limitations and direct the student to the correct RMIT channel.\n"
-        "- Keep the answer concise (~150–250 words) unless the user requests more detail.\n"
-        "- Double-check each citation by matching the fact to the exact snippet containing it.\n"
-        "- You may NOT invent additional details or interpretive expansions beyond what appears in the snippets.\n"
-        "- Your goal is accuracy, clarity, and correct distribution of citations—not guessing.\n"
+        "- Use ONLY facts present in the Context snippets above.\n"
+        "- Cite the correct source marker ([S1], [S2], …) immediately after each factual claim.\n"
+        "- If multiple snippets contain relevant facts, distribute citations across those [S#] sources.\n"
+        "- Do NOT reuse the same [S#] unless every cited fact truly comes from that one snippet.\n"
+        "- Never guess or default to [S1]. If a required detail is missing, write: (no source).\n"
+        "- Only use [S#] markers that actually appear in the Context block.\n"
+        "- If the Context is insufficient, state the limitation and direct the student to the appropriate RMIT channel.\n"
+        "- Keep the answer concise (~150–250 words) unless the user asks for more detail.\n"
+        "- Double-check each citation matches the exact snippet containing that fact.\n"
+        "- Do not invent extra policy details or interpretations beyond the snippets.\n"
+        "- When ≥2 distinct [S#] appear in Context and are relevant, use at least two different markers in your answer.\n"
     )
-
     return prompt
 
 
 
-# ---------- Public entrypoint for UI ----------
+
+def _is_mental_intent(q: str) -> bool:
+    ql = q.lower()
+    return any(t in ql for t in ("mental","wellbeing","well-being","counselling","counseling","anxiety","depress","suicid","therapy","support"))
 
 def get_context_and_prompt(
     user_query: str,
@@ -239,33 +383,39 @@ def get_context_and_prompt(
     top_k: int = 4,
     max_ctx_chars: int = 2800
 ) -> Tuple[str, List[str], str]:
-    """
-    Returns (context_text, citations_list, final_prompt) for the given query & UI category.
-    """
-    role_key = CATEGORY_MAP.get(ui_category_label, "general")
-    category_filter = role_key if role_key in {"policy_admin", "study_skills", "identity_access"} else None
-    # hits = retrieve(user_query, k=top_k, category=category_filter)
-    hits = retrieve(user_query, k=8)  # bump k temporarily for diagnostics
+    # 1) Map UI label → role_key, allow Auto
+    if ui_category_label.lower().startswith("auto"):
+        role_key = AUTO_ROLE
+    else:
+        role_key = CATEGORY_MAP.get(ui_category_label, "general")
 
-    from collections import Counter
-    def _src_key(r):
-        return (r.get("doc_id")
-                or r.get("source")
-                or r.get("url")
-                or r.get("title")
-                or "")
+    # 2) Decide category filter strategy
+    if role_key == AUTO_ROLE:
+        detected = detect_role(user_query)  # "policy_admin" | "study_skills" | "identity_access" | "general"
+        # If mental intent but we didn't detect identity_access, switch to it
+        if _is_mental_intent(user_query) and detected != "identity_access":
+            detected = "identity_access"
+        # You have two options:
+        # (A) prefer the detected category but DO NOT hard filter → pass category=None and rely on _cat_boost
+        category_filter = None
+        preferred_category = detected
+    else:
+        # Original behaviour for explicit roles
+        preferred_category = None
+        category_filter = role_key if role_key in {"policy_admin", "study_skills", "identity_access"} else None
 
-    print("Top hits by source key:")
-    print(Counter(_src_key(r) for r in hits))
+    # 3) Retrieve (note we pass the actual category_filter as before)
+    hits = retrieve(
+        user_query,
+        k=top_k,
+        category=category_filter,              # hard filter or None
+        preferred_category=preferred_category  # soft bias when Auto
+    )
 
-    print("\nTop hits raw sources (first 8):")
-    for r in hits:
-        print(_src_key(r), "|", r.get("source"), "|", r.get("title"), "| chunk", r.get("passage_index"))
+
+    # DEBUG (optional)
+    print(f"[AUTO] role={role_key} preferred={preferred_category} filter={category_filter}")
 
     ctx, cites = format_context(hits, max_chars=max_ctx_chars)
-    print(ctx)
-    print("-- cites --")
-    for c in cites: print(c)
-
-    prompt = build_prompt(user_query, role_key, ctx)
+    prompt = build_prompt(user_query, (preferred_category or role_key), ctx)
     return ctx, cites, prompt
