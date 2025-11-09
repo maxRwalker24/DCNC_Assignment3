@@ -1,10 +1,12 @@
-gradio==4.44.0
+gradio~=5.0
 boto3==1.35.40
 scikit-learn==1.5.2
 numpy==2.1.2
-scipy==1.13.1
+scipy==1.14.1
 regex==2024.9.11
 PyPDF2==3.0.1
 pdfminer.six==20231228
 beautifulsoup4==4.12.3
 html2text==2024.2.26
+huggingface_hub>=1.0
+authlib>=1.2

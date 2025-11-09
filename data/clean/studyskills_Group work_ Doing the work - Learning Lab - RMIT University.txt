@@ -1,0 +1,94 @@
+# Group work: Doing the work
+Once you have built a strong foundation for group work by using the strategies
+previously outlined, it's time to get down to work.
+To meet the task requirements, group members will be busy with different
+responsibilities at the same time. Focus on communicating and collaborating to
+successfully manage yourselves and the task.
+Let's explore some strategies you can use.
+## Hold regular meetings
+* Use an agenda to keep meetings focussed on the task.
+* Actively contribute to discussions using inclusive and respectful language.
+* Be open to different ideas and different perspectives.
+* Ensure everyone has a say. Listen when others are speaking and encourage the quiet members to contribute.
+* Check and measure progress against the timeline.
+* Meetings are an opportunity for the group to reconnect, review progress, provide feedback and make any necessary changes.
+## Give each other constructive feedback
+* Give positive feedback to motivate and encourage team members. Always start with genuine, positive feedback: say what you appreciate about their work before offering critical feedback.
+* Be sensitive to how others may respond to criticism. Be nice.
+* Use the S.M.A.R.T. principles to focus your feedback on the task:
+* **Specific:** Focus on actual examples of the work or performance. General or vague statements are unhelpful.
+* **Motivating:** Give reasons to continue or change behaviour. Why is it important or useful?
+* **Action-oriented:** Align actions with the task requirements. If a change is required, what needs to happen?
+* **Realistic:** Is the change something that the person can do? Do they need help? Who is going to help them?
+* **Timely:** Provide feedback when it is requested or required. Waiting until the end of the task may affect everyone in the group and could allow a small problem to escalate.
+## Deal with challenging behaviours and conflict
+* Identify and acknowledge any conflict or dissatisfaction early. Disagreements arise when members lack clear directions or feel their knowledge and skills are ignored or criticised.
+* Communicate any problems to the whole group and try to resolve the problem quickly, as a group. You will need to negotiate and compromise.
+The diagram shows how issues can often build upon one another.
+![](https://rmitlibrary.github.io/cdn/learninglab/images/managing_the_group_issues_triangle.png)
+A pyramid with three levels. They are:
+1. **Frustration:** "Why won't they listen to me?"
+2. **Unclear responsibilities:** "Am I supposed to do this? I don't know what I have to do."
+3. **Poor planning:** "What do I do next? Are we working together? Separately?"
+### Manage group dynamics
+Groups are made up of people with different expectations. For example, some
+students are happy just to pass while others aim for high marks.
+Sometimes these differences can cause tension. This is normal – all groups
+experience highs and lows when working on complex projects over a period of
+Do you recognise any of these people and their behaviours and attitudes in
+* **Team player:** Collaborative, communicative, committed.
+* **Hitchhiker:** Along for the ride, does minimal work but shares the results.
+* **Superhero:** Comes to the rescue by taking over every task. A group of one!
+* **Zombie:** Unengaged and unmotivated. May disappear for weeks or completely.
+You are always going to encounter diversity within groups. The best way to
+ensure an effective group work experience is to develop a strong process with
+Seek help from your lecturer or other academic support services if your group
+is unable to agree on a solution.
+## Managing the task
+### Use agendas in meetings
+* Use the agenda as a checklist to ensure that all the task criteria have been met.
+* Record decisions for actions, roles and responsibilities to provide clear direction to group members.
+* Measure agenda actions against the timeline to help the team stay on track. Be prepared to adjust the timeline as the project progresses.
+### Manage tasks and resources
+* Organise information so that it is shareable and accessible to everyone. There are many online collaborative tools and apps to choose from. Remember to keep it simple!
+* Create the final product. Your final submission may have specific requirements. Delegate responsibilities among group members for completing the work. Follow the strategies for [Wrapping up](/university-essentials/group-work/wrapping/).
+* * *
+## Keywords
+* [Group work](/keyword/group-work/)
+* [Study skills](/keyword/study-skills/)
+* [Time management](/keyword/time-management/)
+## Embed this page
+How to embed in Canvas LMS
+1. Copy the iframe code above.
+2. Go to the course in Canvas where you want to add the content.
+3. Navigate to the page or module where you want to embed the content.
+4. In the Rich Content Editor, click on the "HTML Editor" link.
+5. Paste the iframe code into the HTML area.
+6. Switch back to the Rich Content Editor to see the embedded content.
+7. Save the changes to your page or module.
+Note: Ensure that your permissions allow embedding external content in your
+Canvas LMS instance.
+[ ![](https://rmitlibrary.github.io/cdn/footer/ask-library-icon-round.svg) Ask
+the Library Get help with finding information, referencing, and using the
+Library. ](https://www.rmit.edu.au/library/about-and-contacts/ask-the-library)
+flag](https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flagred.png) ![torres strait
+flag](https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flaggreen.png)
+## Acknowledgement of Country
+RMIT University acknowledges the people of the Woi wurrung and Boon wurrung
+language groups of the eastern Kulin Nation on whose unceded lands we conduct
+the business of the University. RMIT University respectfully acknowledges
+their Ancestors and Elders, past and present. RMIT also acknowledges the
+Traditional Custodians and their Ancestors of the lands and waters across
+Australia where we conduct our business \- Artwork 'Sentient' by Hollie
+Johnson, Gunaikurnai and Monero Ngarigo.
+[More information](https://www.rmit.edu.au/about/our-values/respect-foraustralian-indigenous-cultures)
+![Abstract artwork titled 'Sentient' by Hollie Johnson, features a complex
+pattern of intersecting blue, green, and yellow lines over a white background
+showing the journeys of life starting, finishing and intersecting. The
+colouring of the line work illustrates the evolution of nature through many
+First Nations stories: the sun, the giver of life \(yellow\), the creation of
+land \(green\), and the sea \(blue\). Red and black concentric diamond and
+semi-circle shapes symbolise men and women respectively, connecting them to
+Ancestors who gave birth to them. The artwork is also a representation of RMIT
+and the experience within our community, culture and
+pathways.](https://www.rmit.edu.au/content/dam/rmit/images/sentient-holliejohnson.jpg)

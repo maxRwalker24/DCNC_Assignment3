@@ -1,0 +1,1779 @@
+Assessment Processes
+These processes support and should be read in conjunction with the
+Assessment and assessment flexibility policy.
+See the definitions section of the Assessment and assessment flexibility policy.
+Assessment – general processes ..................................................................................5
+Design of assessment .................................................................................................................. 5
+Assessment information in course guides ................................................................................... 5
+Assessment rubrics ...................................................................................................................... 5
+Exceptions .................................................................................................................................... 6
+Vocational education assessment ................................................................................................ 6
+Group assessment work .............................................................................................................. 6
+— Overview of group assessment work .................................................................................................... 6
+— Designing group work .......................................................................................................................... 6
+— Managing group conflict ....................................................................................................................... 7
+— Assessing group work .......................................................................................................................... 7
+Submission of assessment work .................................................................................................. 7
+— Submission of assessment for research component courses of 24 credit points or more ...................... 7
+— Submission of theses and dissertations for courses of 48 credit points or more ................................... 7
+— Submission of creative or professional practice projects of 24 credit points or more ............................. 8
+Supervision of research components in coursework programs (Higher Education) .................... 8
+Ownership and retention of work submitted for assessment ...................................................... 9
+Feedback on assessment work.................................................................................................. 10
+Responding to student disclosures of unlawful or harmful behaviour ....................................... 10
+Assessment – examinations processes .................................................................... 11
+Scope of exam rules .................................................................................................................. 11
+Preparation for final exams ........................................................................................................ 11
+Exam timetables ......................................................................................................................... 14
+Exam supervision ....................................................................................................................... 15
+Student responsibilities in relation to exams .............................................................................. 15
+Incidents of misconduct during an exam ................................................................................... 15
+Responsibilities of examiners ..................................................................................................... 15
+Retention of marked exam scripts ............................................................................................. 15
+Exams for students who are elite athletes ................................................................................. 16
+Examination of theses and dissertations for courses of 48 credit points or more ..................... 16
+Examination of creative or professional practice projects of 24 credit points or more .............. 16
+Assessment – quality processes .................................................................................17
+Course assessment committees ................................................................................................ 17
+Program assessment boards ..................................................................................................... 18
+Moderation of assessment ......................................................................................................... 20
+Validation of assessment ............................................................................................................ 21
+Academic integrity and academic misconduct .......................................................................... 21
+RMIT University | Assessment Processes
+Assessment – flexibility processes .............................................................................23
+Extensions of time to submit assessment work ......................................................................... 23
+Special consideration ................................................................................................................. 23
+Deferred assessments ................................................................................................................ 24
+Equitable learning plan ............................................................................................................... 25
+Alternative assessment arrangements ....................................................................................... 25
+Assessment arrangements for elite athletes .............................................................................. 26
+Assessment – management of results ..................................................................... 28
+Types of grade and their approval for use .................................................................................. 28
+Grading systems ........................................................................................................................ 28
+Result publication dates ............................................................................................................. 28
+Management of final student results .......................................................................................... 29
+Changes to published results ..................................................................................................... 29
+Grade point average ................................................................................................................... 30
+Weighted average mark .............................................................................................................. 30
+Assessment – academic progress processes ..........................................................32
+Academic progress (coursework programs) .............................................................................. 32
+Responsibilities of students and staff in relation to academic progress .................................... 32
+Definition of unsatisfactory performance ................................................................................... 32
+Approved correspondence templates and pro formas .............................................................. 33
+Identification of students with unsatisfactory academic progress ............................................. 33
+At risk first stage ......................................................................................................................... 33
+At risk final stage ........................................................................................................................ 34
+Effects of exclusion .................................................................................................................... 37
+Inherent requirements ................................................................................................................ 37
+Supplementary assessments ..................................................................................................... 37
+Maximum time to complete a coursework program .................................................................. 38
+Assessment – review and appeal processes ...........................................................41
+Review of assessment and appeals ........................................................................................... 41
+Grounds for review and appeal of a final course assessment result .......................................... 41
+Stage one – school/industry cluster-level review of final course result ...................................... 41
+Appeals against final course assessment results....................................................................... 42
+Appeals against exclusion .......................................................................................................... 43
+Appeals against special consideration outcomes ...................................................................... 44
+Review and appeals in relation to equitable assessment arrangements ................................... 44
+RMIT University | Assessment Processes
+These processes support and should be read in conjunction with the
+Assessment and assessment flexibility policy.
+Assessment – general processes
+Design of assessment
+Exams and assessment tasks must be materially different from any assessment task in the course in
+previous teaching periods across locations (over a two-year period) unless restricted by requirements
+for specific competencies for reasons of accreditation or safety. Please refer to College (and discipline)
+standards for specific requirements.
+— 12 credit point course, the total number of assessment tasks should not exceed 4, and in any
+— 24 credit point course, the total number of assessment tasks should not exceed 6
+except where progressive assessment involves more regular submission of contributions to a single
+assessment piece (refer to section 1.8.2).
+The total number of assessment tasks does not include those in micro-credentials.
+The proportion of multiple choice answer assessments should not exceed 20% of the weighting of
+assessment tasks towards the final course grade.
+For higher education programs, the weighting of an individual piece of assessment within a course will
+be no greater than 50% of the total marks except where the course is a research, studio-based,
+capstone or WIL component of the program.
+1.5. Other than where prescribed by a nationally accredited training package or state accredited courses
+using competency-based assessment, a course can only include hurdle assessments where they are
+required by safety or professional accreditation, registration or licensing requirements and they must be
+clearly identified in the course guide.
+The requirements specified in sections 1.1–1.3 are currently in transition and will be fully in effect by
+Assessment information in course guides
+1.7. See the course guides section of the program and course processes for:
+— assessment information that must be provided in course guides
+— conditions under which assessment in a course can be changed after the course offering has started.
+The instructions for each assessment must provide students with clear and detailed advice of the
+criteria by which their performance will be assessed.
+1.8.1. RMIT is transitioning to a requirement that, where an assessment is graded and contributes
+20% or more of the total course mark, a criterion-referenced assessment tool (rubric) or an
+alternative rubric required for external accreditation will state the standards of performance
+expected at each grade level: see the Using rubrics web page.
+An assessment may comprise several separate tasks or parts, such as lab reports (where
+students are required to do a report per lab), each of which is worth a minimal mark. In such
+cases, where each part builds on the same material/concepts, the tasks or parts will be
+added together and considered as a single assessment for the purposes of determining the
+total number of assessment tasks in a course (see section 1.2) or the percentage an
+assessment contributes to the total course mark (see section 1.4).
+RMIT University | Assessment ProcessesChapter 1
+The requirement that assessment criteria take the form of a rubric:
+— does not apply to multiple choice answer assessments
+— is encouraged for final examinations but will not be enforced.
+Students undertaking competency-based, non-weighted vocational education assessments
+should be provided with descriptive (rather than numeric) rubrics that give clear advice on
+how assessment decisions are made.
+The requirements specified in section 1.8 are in transition in semester 1, 2019 to ensure that
+these practices are fully embedded in all courses by semester 2, 2019.
+1.9 Where exceptional educational or operational circumstances can be demonstrated, the course
+coordinator may seek the approval of the College Deputy Vice-Chancellor (or nominee) for exemption
+from the requirements detailed in sections 1.1–1.5 and 1.8.1–1.8.4.
+Vocational education assessment
+1.10. For processes to ensure that assessment in vocational education complies with regulatory
+and funding requirements, see the vocational education webpage (VE Essentials) or contact
+vocational.education@rmit.edu.au.
+Group assessment work
+Overview of group assessment work
+1.11. Group assessment work (‘group work’) assesses the process as well as the product of working in
+groups: it enables students to develop communication, cooperation and teamwork skills such as
+planning, management, conflict resolution and peer support.
+1.12. Group work is inclusive and accessible: it enables full participation by students from diverse
+backgrounds and with diverse abilities.
+1.13. Academic/teaching staff are actively involved in supporting group work throughout the group work
+process to provide feedback, support skill development, assess the process and identify any group
+process issues as they emerge.
+Designing group work
+In designing group work, staff will have regard to the following aspirational principles:
+— is aligned with course learning outcomes and delivery mode
+— reflects collaborative work in the relevant industry or profession
+— is aligned with assessment and learning outcomes for the program as a whole.
+1.15. Where a program includes group work in several core courses, these are designed to extend students
+by building their collaborative skills progressively.
+If, in courses with competency-based assessment, students undertake assessment tasks as a group,
+each student will, where possible, be assessed individually on each component of the task.
+1.17. Group work is designed to ensure that staff:
+— manage group formation to ensure diversity and inclusiveness as far as possible
+— inform students of how they are expected to contribute to group work
+— where students may be new to group work, teach them intercultural and collaborative group work
+skills including the use of collaboration tools
+— where students may be new to group work and the course is taught face to face, allocate time for
+group work in classes
+— provide opportunities for students to reflect on the group process and their contribution
+— provide feedback to students during the group work process to enable them to improve their skills
+— can provide equivalent assessment tasks where students are prevented from participating in part of
+the group work process by a disability, long-term physical or mental health condition, or short-term
+circumstances outside their control.
+RMIT University | Assessment ProcessesChapter 1
+Managing group conflict
+1.18. Staff provide:
+— clearly defined processes for managing group conflict at the start of the group work
+— guidance and active monitoring throughout the group work process so staff can intervene if a
+group becomes dysfunctional.
+1.19. Students who experience problems with group functioning are responsible for informing the relevant
+staff as soon as possible so these issues can be addressed promptly and the group achieves its tasks.
+Assessing group work
+1.20. Staff provide students with:
+— a clear statement of how their group work will be assessed, including marking criteria for and mark
+proportions allocated to the group process and the outcomes
+— instructions on how group members verify/authorise the submitted work
+— feedback on group work assessment process and outcomes.
+Submission of assessment work
+1.21. The course coordinator ensures at the start of each teaching period that:
+the part B course guide states how students will submit assessment tasks, and
+1.21.2. staff teaching the course inform students how they will submit assessment tasks.
+1.22. Electronic submission (eSubmission) is the preferred method for students to submit assessment work.
+Physical submission should only be used for assessment work that cannot easily be submitted
+electronically, such as creative works or physical artefacts.
+1.22.1. The electronic authorisation of assessment website describes how staff must set up
+eSubmission for students.
+1.22.2. Students eSubmitting work must do so from their RMIT student account.
+1.22.3. When eSubmitting work, students are directed to the Assessment declaration web page, and
+must ‘click through’ this page, thereby declaring their authorship of the work. They don’t
+need to include a cover sheet declaring their authorship.
+1.23. Where students submit physical work for assessment, they must complete, sign and attach a cover
+sheet that includes a statement of their authorship of the work.
+1.24. A generic cover sheet for physical submission of assessment work is available from the student
+assessment forms web page.
+Submission of assessment for research component courses of 24 credit points or more
+1.25. Sections 1.25–1.35 of these processes apply to research component courses of 24 credit points or
+more in bachelor honours or masters by coursework programs, including where a 24 credit point
+research component is broken into two 12 credit point courses.
+1.26. The following two sections state two different sets of requirements:
+— for submission and assessment of theses or dissertations for research component courses of
+48 credit points or more (including where the thesis/dissertation is broken into two courses that
+total at least 48 credit points): see sections 1.28–1.31, and
+— for creative or professional practice research projects: see sections 1.32–1.35.
+1.27. The requirements of sections 1.25–1.35 don’t apply to a research component course weighted at less
+than 24 credit points and which isn’t part of a larger research component weighted at 24 credit points.
+Submission of theses and dissertations for courses of 48 credit points or more
+1.28. When a student believes their dissertation, thesis or project is ready to be submitted, they should
+discuss with the supervisor whether the supervisor agrees that it is ready to be submitted.
+1.28.1. The supervisor confirms the outcome of that discussion by email to the student within five
+1.28.2. The student may choose to submit without consulting the supervisor or even if the supervisor
+does not agree that the thesis/project is ready, but should note that unsupported submission
+risks a poorer mark.
+RMIT University | Assessment ProcessesChapter 1
+1.29. Other than in exceptional circumstances, students must submit the thesis or dissertation by the
+deadline stated in the information on assessment in the course.
+1.30. Where, however, the student requires an extension to the deadline for submission of the thesis/dissertation:
+1.30.1. because of unforeseen personal or health circumstances outside the student’s control, the
+student should apply for an extension or special consideration: see sections 4.1–4.10 below.
+1.30.2. because of unexpected and exceptional difficulties other than unforeseen personal or health
+circumstances, such as difficulty accessing equipment or facilities, or delays in providing
+supervision, the program manager or course coordinator has discretion to grant an extension.
+1.31. Approved late submission may mean that the student’s final results are not approved in time for the
+following round of higher degree by research scholarship applications.
+Submission of creative or professional practice projects of 24 credit points or more
+1.32. Schools/industry clusters should as far as possible schedule research component assessments to
+ensure that the results are approved in time for graduates to compete in the next round of scholarships
+to undertake a higher degree by research or to start employment in their profession after the end of the
+relevant teaching period.
+In Melbourne programs this means that results should as far as possible be approved in
+October or at latest by late November.
+1.33. Other than in exceptional circumstances, students must submit the assessment tasks in creative/
+professional practice research component courses by the deadline stated in the information on
+assessment in the course.
+1.34. Where, however, the student requires an extension to the deadline for submission of the research
+1.34.1. because of unforeseen personal or health circumstances outside the student’s control, the
+student should apply for an extension or special consideration: see sections 4.1–4.10 below.
+1.34.2. because of unexpected and exceptional difficulties other than unforeseen personal or health
+circumstances, such as difficulty accessing equipment or facilities, or delays in providing
+supervision, the program manager or course coordinator has discretion to grant an extension.
+1.35. Approved late submission may mean that the student’s final results are not approved in time for the
+following round of higher degree by research scholarship applications.
+Supervision of research components in coursework programs
+1.36 These processes do not apply to courses in HDR programs, or research methods and research
+planning courses in coursework programs.
+1.37 Research components in coursework programs may take the form of independent research or project
+work or practice-related learning or an equivalent piece of scholarship.
+1.38 These processes are intended to ensure that students receive adequate supervision in what may be
+their first experience of undertaking a substantial research activity.
+1.39 Refer to the Australian Code for the Responsible Conduct of Research and the RMIT Human Research
+Ethics Procedure for guidelines on research conduct.
+1.40 Refer to the Assessment and assessment flexibility policy and to other relevant parts of these
+Assessment processes for information on research assessment.
+1.41 For one year stand-alone bachelor honours programs that require a dissertation or thesis weighted at
+48 credit points or more, the school or college may appoint an honours program committee.
+1.42 The honours program committee is responsible for:
+1.42.1 monitoring the allocation of supervisors and examiners to honours research components
+serving as the course assessment committee for honours research components
+serving as the program assessment board for the relevant honours programs.
+1.43 The program will define in the course guide a normal word length for the dissertation/thesis appropriate
+RMIT University | Assessment ProcessesChapter 1
+1.44 To be the principal supervisor for or to examine the dissertation or thesis, a person must possess
+expertise in the relevant discipline area and:
+for supervision or examination for an honours degree, a master degree or doctorate, or hold
+equivalent standing and experience in industry or
+for supervision or examination for a master degree, a doctorate.
+1.45 For each student a principal supervisor of their dissertation/thesis is appointed who is an RMIT staff
+member. The school must make every effort to ensure that the principal supervisor will be present to
+provide the student with adequate supervision during the research component course. One or more
+co-supervisors may be appointed who may be other RMIT staff or external to the University.
+In exceptional circumstances, a school is required to engage industry practitioners in a sessional
+capacity to act as primary supervisors for dissertation or thesis for master by coursework programs.
+Where this occurs, industry practitioners must be available to provide the same level of support
+required by the clause above.
+If the principal supervisor is absent for four weeks or more:
+1.47.1 a co-supervisor who is an RMIT staff member may stand in as principal supervisor for the
+period of absence or
+the school will arrange an interim principal supervisor for the period of absence. The student
+must be informed about the arrangement of an interim principal supervisor who is not already
+a co-supervisor, and must be given an opportunity to raise concerns and/or suggest a
+different supervisor. Where the fact that the supervisor will be absent is known well in
+advance, the interim arrangement must be in place before the absence starts.
+1.48 Supervisors are responsible for:
+1.48.1 allocating the student sufficient time for adequate supervision during the course, and
+agreeing with the student on a schedule of meetings
+1.48.2 guiding the student on:
+— the choice of research topic
+— planning the research
+— the relevant literature
+— research methods and techniques
+1.48.3 providing the student with feedback on work in progress and suggestions for improvement
+within a reasonable time-frame
+informing the student where the student’s progress is too slow or the standard of their work
+is inadequate and suggesting ways to address these problems. Such concerns should
+initially be discussed with the student and then stated in an email which should be retained in
+Ownership and retention of work submitted for assessment
+1.49. For requirements in relation to student ownership of ideas the student produces for assessment tasks,
+see the intellectual property policy.
+Items submitted by students for assessment tasks remain the property of the student.
+1.50.1. Where, however, in the opinion of the dean/head of school/associate director, the University
+has contributed significantly to the cost of materials or resources to produce the item, the
+school/industry cluster may require the student to reimburse the University or transfer the
+ownership to the University.
+Items submitted by a student for an assessment task remain in the University or under the control of
+the university until the assessment has been marked.
+1.51.1. They may, however, be reproduced, communicated to others (including external examiners),
+compared and archived for the purpose of detecting plagiarism.
+RMIT University | Assessment ProcessesChapter 1
+Feedback on assessment work
+1.52 Timely feedback effects the University’s commitment to transparent and supportive assessment and
+supports students by:
+— informing students of how they can improve prior to the census date and during the course
+— demonstrating how performance has been measured against task requirements and course
+1.53. Assessors are expected to provide students with marks and feedback on in-course assessment work
+in time for students to improve their performance in related assessment tasks later in the course.
+1.53.1. Assessors normally provide marks and feedback on in-course assessment tasks within
+10 working days of the deadline for submission of the assessment work or, if a student is granted
+an extension, within 10 working days of the date when the student submitted the work.
+1.53.2. Assessors normally provide students with marks for all in-course assessments before
+students sit any end-of-course exam.
+Responding to student disclosures of unlawful or harmful behaviour
+1.54 During engagement with assessment processes such as special consideration, equitable learning plan,
+academic progress and appeals, a student may choose to disclose details of concerning, threatening
+or inappropriate behaviour. Disclosures may include, but are not limited to, sexual harassment as
+described in the Sexual Harassment Policy, sexual assault, stalking, self-harm, bullying, harassment,
+unlawful discrimination and/or victimisation.
+Safer Community provides support and advice to students and staff concerned about concerning,
+threatening or inappropriate behaviour. Staff should contact Safer Community for initial advice while
+maintaining student privacy. Such action will enable staff to respond to the student, providing timely
+referral to relevant services such as Safer Community, Student Counselling, Students Complaints, and
+Student Support. Mandatory reporting and other requirements, including Reportable Conduct Scheme
+apply to students under the age of 18.
+Where there is an immediate risk of harm, seek urgent assistance via:
+— Emergency services 000
+— RMIT Urgent Security
+— If unsure and needing advice, contact the RMIT Staff line for urgent student support on 9925 1111.
+RMIT University | Assessment ProcessesChapter 1
+Assessment – examinations processes
+The rules in these sections on examinations (exams) (sections 2.1–2.24) apply to all formal supervised
+exams, whether managed centrally by the Academic Registrar’s Group (ARG) or managed by schools,
+colleges or other units of the University.
+These rules are written in terms of centrally managed exams of at least two hours duration,
+but should also be applied as far as possible to other, school-managed exams.
+These rules apply to exams conducted in RMIT programs delivered with partner institutions,
+unless the partnership contract states other rules for exams.
+Preparation for final exams
+Examination development and coordination.
+2.2.1 The course coordinator is responsible for ensuring that the final end of teaching period
+examination papers and marking scheme are developed and made available in accordance
+with prescribed requirements.
+Development of the examination papers must be carried out in liaison with the course
+management team, normally no later than the expiry of 50% of the teaching period.
+2.2.3 Where a course is delivered in more than one location (including campuses and partnerships
+outside Australia) consultation will occur with those responsible for delivery and assessment
+at each location to:
+— invite input into the development, moderation and proofing of the examination and
+— coordinate the timetabling for preparation of the examination and marking scheme, and
+the delivery, marking and moderation of the examination.
+Preparation of back-up examination papers.
+Three examination papers must be available for each course, one of which is for use where a
+deferred exam sitting becomes required either via special consideration or where a breach in
+the integrity of the first assessment occurs, necessitating a further sitting.
+The second examination paper must be prepared at the same time as the original
+— Where there are two standard teaching periods in the calendar year and a third paper is
+not prepared at the same time as the original and second examination papers, the course
+coordinator must ensure that appropriate staff are available to prepare a timely third
+paper, where it is required.
+In the case where any additional exam papers are not used, they may form the basis of the
+papers for the following teaching period offering of the course, where appropriate.
+Examination timetabling arrangements.
+The course coordinator will ensure that time frames are identified for the end-to-end
+processes for examination development, finalisation, approval, and inclusion in the University
+examination timetables.
+This information will be communicated to the Associate Director, Integrity and Assessment
+Support, ARG (to enable timetabling and creation of the exam Online Header and Coversheet
+generator) and the appropriate School/College office (as directed by the respective School/
+College responsible for the course/s).
+RMIT University | Assessment Processes
+2.4.3 Where the examination timetable is not managed by ARG, Melbourne (for example, school
+run examinations and those conducted at campuses and partnerships outside Australia), the
+delegated office responsible for timetabling will implement local procedures that meet the same
+standards of probity and integrity as those of the ARG Integrity.
+Integrity of examination handling processes.
+Only University-approved secure file transfer processes will be utilised to maintain integrity of
+end-to-end examination development and delivery.
+Drafts must not be exchanged via email, USB, in hard copy or other non-approved
+processes. Within a local academic unit, however, staff may use RMIT online collaboration
+software to share drafts of the paper.
+Review of exam papers.
+The course coordinator will ensure that one or more exam reviewers are appointed who will
+be responsible for checking the content coverage, technical accuracy and academic validity
+of the examination questions and the marking scheme.
+To maximise the scope for review, wherever possible, the reviewer should not have been
+involved in the original preparation of the examination paper.
+The exam reviewers must have expertise in the discipline area and will ensure the papers
+meet each of the following criteria:
+— Appropriate coverage of course content
+— Compliance with description of exam in course guide
+— Weighting of marks appropriate to topics covered in course
+— Appropriate time allocation
+— Set at a standard consistent with the level of the course
+— Sufficiently challenging
+— Of appropriate length
+— Internationalised/contextualised
+— Cultural and gender acceptability
+— Technical accuracy
+— Instructions are clear and unambiguous
+— Special items (e.g. tables, figures, appendices) are specified, attached and labelled
+— Marks are consistent with any relevant instructions.
+The examination reviewer discusses any proposed amendments to the exam paper with the
+course coordinator (or that person’s delegate) who will decide the matter.
+2.6.5 When the review process is complete the examination paper is made available (via the secure
+file transfer system) to the proof reader.
+Proof reading exam papers.
+The course coordinator will appoint one or more proof reader/s to ensure clarity of questions
+and instructions and the overall quality of presentation.
+The officer responsible for proof reading should have expertise in document design, editing
+The proof reader reviews the paper/s to ensure:
+— Instructions are clear and easy to follow
+— Time and date of the exam are correct
+— Reading time is clearly stated
+— Each question and each part is on one page only (i.e. do not split across a page boundary)
+— Special items (e.g. tables, figures, appendices) specified are attached and accurately labelled
+— Figures, diagrams, formulae clearly legible
+— A profession level of presentation is achieved
+— Grammatical correctness
+— Pages are numbered and in sequence, ensuring that proper page breaks are used
+(i.e., Ctrl and Enter, not via multiple cursor entries)
+RMIT University | Assessment ProcessesChapter 2
+— Marks for each question and each part are shown clearly
+— Marks add up to the correct total
+— Marks are consistent with any relevant instructions.
+2.7.4 Where a course is delivered in more than one location (including campuses and partnerships
+outside Australia) the proof reader will ensure that those with delegated responsibility for
+delivery and assessment at each location have had the opportunity for input into the proofing
+The proof reader must report any errors found in an exam paper to the course coordinator
+to arrange for the corrections to be actioned via the secure file transfer system.
+2.7.6 When proof reading is complete, the exam paper, header sheet and cover sheet for each
+course are converted directly into a single PDF document to ensure a high image quality
+(papers must not be printed and scanned).
+The proof reader will transfer the document/s via the secure file transfer system to the course
+coordinator, accompanied by a declaration that they have been proofed, which shall be
+retained by the school in an auditable manner. The format for file transfer should be PDF to
+retain formatting integrity. However, wherever reasonably possible an editable copy (MS
+Word, or other suitable format) should be accessible to facilitate an equitable assessment
+arrangement for students with a learning disability, where requested.
+The course coordinator, reviewer, and proof reader may be the same person, provided they
+meet the eligibility criteria set out above.
+Final check of exam paper and marking scheme by course coordinator.
+Once the course coordinator receives the examination papers from the proof reader, a final
+The course coordinator will check to ensure:
+— Figures, diagrams, formulae are clearly legible
+— Professional-level presentation
+— Pages are numbered and in sequence
+— Marks add up to the correct total
+— The marking scheme is complete and consistent with the examination paper.
+2.8.3 Where a course is delivered in more than one location (including campuses and partnerships
+outside Australia) the course coordinator will ensure that those with delegated responsibility
+for delivery and assessment at each location have had the opportunity to provide input into
+the final check and have confirmed the version control of the final paper.
+The course coordinator is responsible for the final sign-off of exam papers and marking
+schemes. An auditable record of the satisfactory completion of proofing and final checking
+will be established and retained by the school.
+Once this sign-off has been obtained the following processes are implemented:
+— Where the examination is timetabled by ARG Integrity, exam header sheets and cover
+sheets are created using the Online Header Sheet and Cover Sheet Generator, available
+via the Exams – staff web page.
+— Where the examination timetable is not managed by the ARG (Melbourne), the delegated
+office responsible for timetabling will implement local procedures that meet the same
+standards of probity and integrity as those of ARG Integrity.
+Printing of examination paper.
+Printing of examination papers and creation of exam header sheets and coversheets:
+— Where the examination is timetabled by the ARG Integrity, final examination papers with
+the exam header sheet and coversheet are to be forwarded ARG Integrity by the published
+deadline to the scheduled date of the examination via the secure file transfer system.
+— Where the examination is not timetabled by the ARG (Melbourne), the delegated office
+responsible for coordinating the printing of the examination paper, header and coversheets
+will implement local procedures that meet the same standards of probity and integrity as
+those of the ARG Integrity.
+RMIT University | Assessment ProcessesChapter 2
+— Papers to be transferred globally should be finalised by no later than the expiry of 70% of
+the teaching period.
+— Papers to be used local to the print source should be finalised no later than the expiry of
+80% of the teaching period.
+2.10. The official examination period following each period of study is published in the annual academic
+calendar. The timing of school-run examinations is determined by the school.
+2.10.1. Standard examination sessions normally commence at the following times:
+— Morning sessions: 9.15am
+— Afternoon sessions: 1.45pm
+2.11 ARG Integrity set the exam timetable for each teaching period, before formal exams are held, in
+consultation with colleges and schools.
+2.11.1 Exam timetables are published to students on the students’ web pages.
+2.11.2 Once the exam timetable has been published, it will only be changed:
+— for significant, unavoidable reasons,
+— where the relevant Deputy Pro Vice-Chancellor, Learning and Teaching has endorsed the
+change in writing, and
+— the Academic Registrar (or nominee) has approved it.
+2.11.3 As far as possible exams are scheduled to allow a one hour and 15 minutes break between
+2.11.4 Students are responsible for checking when their exam will start in the published central
+exam timetable or with the school in the case of school-managed exams.
+2.11.5 Students who require adjustments to their exam conditions because of a disability or
+long-term physical or mental health condition must register with Equitable Learning Services
+by the deadline stated in the relevant academic calendar.
+2.11.6 The Academic Registrar and/or schools may arrange for deferred, supplementary and other
+exams to be held when necessary outside the published exam period or in addition to
+school-managed exams notified to students. Where such ad hoc exams are held, the area
+managing them will inform students of their exam date, time and venue at least five working
+days before the exam.
+2.11.7 Students must bring their valid RMIT student card to the examination venue and clearly
+display it on their examination desk.
+2.11.8 Students are permitted to take a hard copy bilingual dictionary into an examination unless
+otherwise stated on the examination cover sheet. The dictionary must not contain any
+notations or be otherwise tampered with in any way. The dictionary must be presented to
+the examination invigilator for inspection at the venue prior to the examination.
+Electronic dictionaries are not permitted unless otherwise stated on the exam coversheet.
+2.11.9 Where reading time applies, students will be given 15 minutes reading time at the start of the
+examination session.
+2.11.10 Students are not permitted to write in the examination script books, mark in any way any
+of the examination materials, read any text other than the examination paper or do any
+calculations during reading time.
+2.11.11 Where a student has two or more exams scheduled at the same time it is their responsibility to:
+— check their student email account regularly before the commencement of the examination
+period to ascertain arrangements for clash exams, and
+— report to the Clash Examination Venue to sit the examinations as advised.
+2.11.12 Students should arrive at the examination venue no less than 20 minutes before the published
+commencement time of the examination.
+RMIT University | Assessment ProcessesChapter 2
+2.11.13 Where the examination is of two hours duration or more, students will be allowed to enter the
+examination venue up to 60 minutes after the published commencement time of the examination.
+No additional time will be granted, however. Students who arrive more than 60 minutes after
+the published start time will not be permitted to enter the examination room and will receive
+a zero mark for that assessment.
+2.11.14 Students will not normally be permitted to leave the examination room within the first 60 minutes
+from the published commencement time of the examination.
+2.11.15 Students will not be permitted to re-enter the examination venue after leaving it, unless they
+have been under approved supervision during the period of leave.
+2.11.16 Students will not normally be permitted to leave the examination venue during the last 15 minutes
+2.12. Everyone who enters an exam venue is subject to the authority of the exam supervisors.
+2.13. See the Exams – staff web page for detailed instructions for exam supervisors.
+Student responsibilities in relation to exams
+2.14. Students attending exams must comply with all directions given by exam supervisors, set out on the
+exam paper or displayed in the exam venue.
+2.15. Students who become unwell during the examination and are unable to complete the assessment
+must report their illness to the exam supervisor and leave the venue. These students may apply for
+special consideration, with supporting medical documentation, seeking a further opportunity to sit the
+examination. Effective Term 1/Semester 1 2019.
+2.16 Students who either complete the examination or leave the venue before completion and do not report
+their illness to the exam supervisor, will be ineligible to apply for special consideration to re-sit the
+examination. Effective Term 1/Semester 1 2019.
+2.17. For detailed instructions on student responsibilities in relation to exams, including advice on materials
+that students can and can’t take into exams, behavioural expectations, and requirements in relation to
+emergency evacuations of exam venues, see the Assessment web page.
+Incidents of misconduct during an exam
+2.18. Academic and general misconduct are defined in the Student conduct policy.
+2.19. Student misconduct during an exam will be dealt with in accordance with the student conduct policy
+and Student conduct policy process.
+2.20. The senior exam supervisor is authorised to suspend a student who disrupts an exam session, requiring
+them to leave the venue and not return that day.
+Responsibilities of examiners
+2.21. See the Exams – staff web page for detailed instructions for examiners.
+Retention of marked exam scripts
+2.22. The school retains marked exam script books for at least 12 months after final results for the course
+offering are posted.
+2.23. After 12 months, exam script books are disposed of via the normal RMIT Retention and Disposal
+Authority, except where sample copies of exam scripts may be need to be retained for purposes of
+program accreditation.
+RMIT University | Assessment ProcessesChapter 2
+Exams for students who are elite athletes
+2.24. Students who are classified as elite athletes by RMIT Sports, and whose athletic commitments prevent
+them from attending an exam at the exam venue, can apply to RMIT Sports for a remote supervision
+2.24.1. RMIT Sports will transmit the request to ARG Integrity.
+2.24.2. Remote supervised exams take place on the same date and at the same time as the exam
+for other students in the course offering.
+Examination of theses and dissertations for courses
+of 48 credit points or more
+2.25. Dissertations and theses are examined as follows.
+2.25.1 The principal supervisor proposes two examiners. To avoid a conflict of interest, neither of the
+examiners can have supervised the student’s dissertation or thesis work.
+2.25.2 The college deputy pro vice-chancellor, learning and teaching can approve an exception to the
+rule in the previous sub-clause where the school demonstrates exceptional circumstances.
+2.25.3 The examiners are approved by the program manager or research component course
+coordinator and notified to the program assessment board.
+2.25.4 The program manager provides the examiners with the instructions to students for
+undertaking the dissertation or thesis and the criteria for assessment. The program manager
+also provides a link to the Supervision of research components in coursework programs
+process (see sections 1.36–1.48).
+2.25.5 The examiners provide written reports including a short statement of the reasons for the mark
+awarded, and a statement to be provided to the student. They’re expected to return these
+reports and statements within two weeks of receiving the dissertation or thesis for examination.
+2.25.6 Students are provided with the examiners’ statements, but not the marks awarded by the
+2.25.7 Where the two examiners’ marks differ by more than 15% of the maximum possible total
+mark, the dean/head of school or nominee will appoint a third examiner, who may be from
+within the University or external to it, but who must not have supervised the dissertation or
+thesis. They must be provided with the same materials for the examination as were the two
+original examiners, but not with the original examiners’ reports.
+2.25.8 The examiners’ reports and marks are referred to the course assessment committee for
+determination of a final grade.
+2.26. Assessment of theses or dissertations should as far as possible be scheduled to ensure that the
+results are approved in time for graduates to compete in the next round of scholarships to undertake
+a higher degree by research or to start employment in their profession after the end of the relevant
+In Melbourne programs this means that results should as far as possible be approved in
+October or at latest by late November.
+2.26.2. Students should note that this time-frame may need to be extended where a third examiner
+is required under section 2.25.7 above, or for other reasons.
+2.27. Students are entitled to appeal against the result of an honours research component course by the
+appeal process set out in the review and appeals sections below: see sections 7.1–7.16.
+Examination of creative or professional practice projects
+of 24 credit points or more
+2.28. Major assessment tasks (weighted at 50% or more of the mark in an individual course) are assessed
+by more than one assessor. At least one of the assessors must have the level of qualification required
+for assessment in the program: see program and course processes for details.
+2.29. Other assessment tasks (weighted at less than 50% of the weighting of a single course) are assessed by
+more than one assessor, except where there are practical reasons why they can only be assessed by one
+staff member. At least one of the assessors of any assessment task must have the level of qualification
+required to assess in the program: see program and course processes for details.
+RMIT University | Assessment ProcessesChapter 2
+Assessment – quality processes
+Course assessment committees
+3.1. Course assessment committees (CACs) review and approve results for courses. This involves:
+ensuring results are entered by the results entry deadline in the relevant academic calendar,
+or as instructed by ARG Integrity; or recording the reasons for any missing or interim results.
+3.1.2. monitoring grade distribution and course outcome statistics.
+3.1.3. monitoring reports of changes to grades after results publication.
+overseeing moderation to ensure equivalence and comparability of assessment across
+multiple locations or delivery channels and over time.
+granting supplementary assessments under the circumstances stated in sections
+approving final grades for students in the course (other than final grades that are the result
+of administrative processes).
+allocating course-based prizes, awards and commendations.
+3.2. CACs are not required to be held for VCE or VCAL courses, or research courses in HDR programs.
+3.3. CACs must be held for:
+— vocational education courses and
+— higher education coursework courses including coursework courses in HDR programs and
+Schools, industry clusters and colleges have flexibility to organise their CACs to ensure
+efficiency and a rigorous approach: a CAC meeting may deal with multiple courses across
+multiple programs as needed: in some schools/industry clusters it may be possible to hold
+a single CAC for all coursework courses.
+In schools/industry clusters with more than one discipline it may be best to hold a CAC for
+the courses offered in each discipline.
+The CAC meets at the end of each teaching period, after marking has taken place and when course
+results are being decided.
+The members of a CAC are:
+— the deputy dean/head of school/associate director, learning and teaching/associate dean, discipline,
+where programs are led across a whole college rather than a school, the program director can chair
+— staff responsible for course management/coordination
+— staff responsible for marking and grading assessment.
+In the case of vocational education courses the program team may act as the committee,
+with the program manager/leader as chair.
+3.6. A quorum of a meeting of the CAC is the chair, at least one member of staff responsible for management/
+coordination of the course, and at least one marker/grader from each location where the course is
+RMIT University | Assessment Processes
+3.7. See the CAC minute template webpage and the CAC report in Business Objects. The school, industry
+cluster or college ensures that the CAC minutes record:
+— the date, time and venue of the meeting, or the fact that it was held online and the time during
+— the courses (including teaching period and delivery location) that were considered by the meeting
+— attendance and a confirmation that the meeting is quorate
+— the approval of the minutes of the previous meeting
+— discussion of reports of changes to published grades since the previous meeting
+— any individual results added or changed at the meeting, and the reasons for this
+— in extraordinary circumstances, where results are missing, an explanation for this
+(appropriate interim results should have been entered)
+— confirmation that grading clearly aligns with the published assessment criteria
+— the reasons why any results remain as interim grades
+— any supplementary assessments granted (the SUP interim grade must be entered for these)
+— for any narrow fail grades (with mark 45–49%), a confirmation that these have been re-marked
+by a second assessor and remain fails
+— any scaling of results arising from moderation, and the reasons for these (if scaling has already been
+done by the course management team, it should still be reported to the CAC and noted in the minutes)
+— a summary of any discussion of grade distributions and enhancements to assessment in the course(s)
+— the allocation of any course-based prizes, awards or commendations
+— at the end of the meeting and after any other changes, approval of all final grades in the course(s).
+3.8. A CAC may grant a supplementary assessment opportunity to a student where the student has:
+— failed to demonstrate competency in an assessment in a competency-based vocational education
+program which requires that students be given further opportunities to demonstrate competency
+(in these cases the supplementary assessment must be granted within 10 working days after the
+— attempted all assessments for the course but, in extraordinary circumstances, it is not possible for
+the course assessment committee to determine whether the student has achieved a pass (50%), or
+— achieved an overall mark of 50% or more in a course but failed one hurdle assessment and the
+course is a prerequisite to core courses in the next teaching period or year of the program or is
+part of a clustered group of competencies in a vocational education program.
+3.9. A chair of a CAC may grant a supplementary assessment opportunity in a course for which the CAC
+is responsible, as an outcome of a review of assessment under section 7.7 below.
+3.10. See sections 6.26–6.32 below for the processes for holding supplementary assessments and
+recording results for them.
+3.11. Where a CAC fails to meet as required or meets but is inquorate the dean/head of school/associate
+director will assume the responsibilities of the committee and make the decisions it would normally make.
+3.12. The findings and recommendations of the CAC are provided to:
+— program assessment boards for programs in which students in the course offering are enrolled, and
+— reviewers of the course or of programs in which the course is part of the program structure.
+3.12.1. Where a coursework course is part of an HDR program, the CAC findings and recommendations
+are provided to the school HDR coordinator, for monitoring of the academic progress of
+students in the program.
+Program assessment boards
+3.13. The functions of program assessment boards (PABs) are:
+— to consider ‘show cause’ submissions from any students who are required to show cause for
+reasons of established unsatisfactory academic progress (final stage): see sections 6.1–6.21 below
+for more detail about the academic progress process
+— to approve allocation of program-level prizes and awards
+— to consider recommendations from course assessment committees in relation to student or
+program cohort performance
+— to consider how assessment is working in the program and whether enhancements are needed.
+RMIT University | Assessment ProcessesChapter 3
+3.13.1. Professional staff perform the following administrative tasks on behalf of the PAB on
+(in competency-based vocational education programs) on behalf of the program team:
+— review the grades achieved and academic progress of each student in the program in
+each teaching period
+— check for students who are eligible to graduate and identify award level classifications
+— identify students who are at risk of unsatisfactory academic performance (first stage)
+and nominate an academic advisor to develop an academic performance improvement
+plan with the student (or without the student if they choose not to participate)
+— identify students with established unsatisfactory academic progress (final stage) and ask
+the student to show cause why they should not be excluded from the program
+— arrange supplementary assessments for students in the circumstances set out in section
+See sections 6.1–6.21 below for more detail about the academic progress process.
+3.13.2. Schools, industry clusters and colleges have discretion to hold PABs to perform this
+administrative work if the program team prefers to do this themselves, but are not required
+3.14. A PAB must be held for higher education course work programs and vocational education programs.
+3.14.1. Schools, industry clusters and colleges have flexibility to organise their PABs to ensure
+efficiency: a PAB meeting may deal with multiple programs as needed: in some schools/
+industry clusters it may be possible to hold a single PAB for all coursework programs.
+3.15. PABs meet after CAC and before course results have been published in each teaching period.
+3.15.1. A PAB may need to meet again to hear show cause submissions from students who have
+been classified as at risk (final stage).
+3.16. The members of a PAB are:
+— the deputy dean/head of school/associate director, learning and teaching or deputy dean/head
+of school for the relevant discipline or associate dean, discipline or discipline leader (chair); where
+programs are led across a whole college rather than a school, the program director can chair
+— the program manager or nominee for each program considered by the PAB
+— year level or core course coordinators
+— representatives of other schools with which a double degree program is shared or that service-teach
+core courses in the program.
+3.16.1. Where a PAB is held for a vocational education program, the program team may constitute
+the PAB membership, and the program manager may chair.
+3.17. A quorum of a meeting of the PAB is the chair and two members from any other membership category.
+3.18. See the PAB minute template webpage and the PAB report in Business Objects. The school, industry
+cluster or college ensures that the PAB keeps minutes that record:
+— the date, time and venue of the meeting, or the fact that it was held online and the time during
+— programs (including teaching period and delivery location) that were considered by the meeting
+— attendance and a confirmation that the meeting is quorate
+— award levels of graduands
+— supplementary assessments granted
+— allocation of any program-level prizes, awards and commendations
+— discussion of minutes of course assessment committees for the teaching period and possible
+improvements to assessment in the program
+— the outcomes of student show cause submissions (whether the PAB allowed the student to
+continue in the program with an at risk classification, or decided to recommend to the dean/head
+of school that the student be excluded from the program)
+— note all students who have been identified for first stage at risk or final stage at risk
+3.19. The minutes of the PAB are provided to reviewers of the program(s) for which the PAB is held.
+RMIT University | Assessment ProcessesChapter 3
+3.20. The chair of a program assessment board (PAB) may ask the school/industry cluster that manages
+a course to grant a supplementary assessment opportunity to a student where:
+— the student is enrolled in a higher education program with a total credit points requirement of
+96 credit points or more, and
+— the student has passed all other courses required for the program but has narrowly failed (with
+a mark of 45–49%) a course in what would have been their final teaching period to complete their
+— the student is enrolled in the second-to-last semester or trimester before they are expected to
+complete their program and has narrowly failed (with a mark of 45–49%) a core course, and this
+course isn’t available in the final teaching period in which the student is expected to complete
+3.21. See sections 6.24–6.32 below for the processes for holding supplementary assessments and
+recording results for them.
+Moderation of assessment
+3.22. See the course assessment committees (CACs) section of these processes (sections 3.1–3.12 above)
+for the responsibilities of the CAC, including moderation.
+3.23. Moderation of assessment can result in adjustment of student marks to overcome differences in the
+difficulty of assessments and/or severity of marking.
+3.23.1. Wherever possible such adjustments must be made before the marks for the assessment
+are communicated to students.
+3.23.2. The reasons for each adjustment are minuted by the CAC that approved it.
+3.24. The course coordinator is responsible for consistency and transparency in moderation of assessment
+3.25. Moderation of marking of an assessment involves the following steps:
+3.25.1. The course coordinator specifies the marking scheme for the assessment in writing.
+3.25.2. All markers agree on a marking process that promotes consistency, such as using one marker
+for a question across the whole course, double-marking where a marker is new to the course,
+and regular communication between markers during the marking work.
+3.25.3. Where there’s only one marker, a moderator is assigned.
+3.25.4. The course assessment committee (see sections 3.1–3.12 above) then:
+— reviews the distribution of marks across the course
+— makes any adjustments to marks and
+— identifies improvements for future assessments and marking.
+3.25.5. Where moderation identifies significant variations between different markers, the course
+coordinator takes action to increase consistency, such as clarifying the marking scheme,
+cross-marking, consensus techniques or review of marking by others.
+3.25.6. The course coordinator provides a summary report on moderation in the course for the
+course assessment committee, setting out:
+— the moderation processes used
+— any issues that arose in moderation
+— reasons for adjustments made to marks, and
+— any other matter relevant to the CAC’s approval of final results in the course.
+3.25.7. At least once a year each school/industry cluster will collect samples of marked examinations
+and major assessment tasks, in each grade-band of results, from each location where each
+course is offered (including online offerings) for review by staff responsible for course and
+assessment design in the school.
+3.25.8. The school/industry cluster uses this review to evaluate the program assessment strategy.
+3.25.9. Records of this review are retained and provided to program reviews as evidence of quality
+assurance and continuous improvement of assessment in the program.
+RMIT University | Assessment ProcessesChapter 3
+Validation of assessment
+3.26. This section applies to validation of assessment in higher education coursework programs.
+3.27. For processes to ensure that validation of assessment in vocational education complies with regulatory
+and funding requirements, see the Program Quality and Review web page.
+3.28. Validation of assessment involves ensuring that assessment in programs and courses:
+— provides clear information and instructions to students, so they understand how they’ll be assessed
+and what outcomes are expected of them
+— is consistent across all program/course locations and modes of delivery, including partnered delivery
+— is designed to ensure integrity and minimise academic misconduct
+— as far as possible, realistically assesses students’ skills for the relevant industry or profession
+— in courses, assesses the course learning outcomes
+— across programs, achieves alignment of course learning outcomes with program learning
+outcomes, so that all program learning outcomes are adequately assessed
+— does not unnecessarily duplicate assessment tasks or over-assess learning outcomes
+— progressively assesses more advanced knowledge and skills as students reach higher levels
+— provides diversity of assessment tasks across the program
+— provides as much flexibility as possible for students with diverse learning needs, and
+— involves the relevant industry or profession in design of assessment.
+3.29. Validation activities may include:
+— program team meetings to review assessment methods and tasks
+— nomination of a lead assessor to manage validation of assessment
+— review of assessment in the program by an external panel
+— statistical comparison of assessment results between locations, channels and over time
+— benchmarking of assessment with other educational institutions
+— obtaining student feedback on assessment via facilitated discussions or student-staff consultative
+3.30. Each program team documents its validation activities and keeps records, which are provided for
+program review, so the program can demonstrate ongoing quality assurance and improvement of
+Academic integrity and academic misconduct
+3.31. The academic integrity web page explains academic integrity to students and sets out their
+responsibilities for this.
+3.32. See sections 1.21–1.35 above for requirements for submission of assessment work including
+declarations of authorship and correct referencing.
+3.33. The Academic Integrity policy sets out the responsibilities of program managers and staff for fostering
+and ensuring academic integrity.
+3.34. Where assessment (in coursework or higher degree by research programs) involves research with
+human participants, their information or their tissue, or animal subjects, this must be conducted
+ethically and have ethics approval.
+3.34.1. See the Research policy for requirements for ethical conduct of research, and ethics approval
+3.35. Program managers are responsible for ensuring that academic integrity is explained to students
+entering the program.
+3.36. Where a student fails to acknowledge their sources, and this may be because they don’t yet understand
+correct referencing practice, course coordinators are required to:
+— explain that this is a breach of academic integrity
+— require the student to repeat the assessment task and/or deduct marks from the assessment
+(up to a maximum of 20% of the mark for the assessment), and
+— warn the student by email that if they fail to acknowledge their sources again, this will be handled
+as an allegation of academic misconduct and may result in more severe penalties
+— forward the email to the academic services team for the program so they can keep a list of students
+who have received such warnings.
+RMIT University | Assessment ProcessesChapter 3
+3.37. Where a student fails to acknowledge their sources for a second time, or cheats on an assessment
+task, the course coordinator refers this to a senior officer as an allegation of academic misconduct.
+3.37.1. The Student conduct policy defines academic misconduct and how allegations of academic
+misconduct are handled.
+3.37.2. The Student conduct policy process sets out the process for senior officers to hear allegations
+of academic misconduct or refer more serious allegations of academic misconduct to the
+Student Conduct Board.
+RMIT University | Assessment ProcessesChapter 3
+Assessment – flexibility processes
+Extensions of time to submit assessment work
+4.1. See section 5.2 of the assessment and assessment flexibility policy for the time-frame
+for requests for extensions.
+4.2. See the extensions of time to submit assessment work web page for the application process.
+Special consideration
+4.3. See section 5.3 of the assessment and assessment flexibility policy for:
+— the grounds on which special consideration is available
+— the time-frame within which students must apply for special consideration and
+— possible outcomes of special consideration applications.
+Possible outcomes of special consideration don’t include
+— raising a student’s grade for an assessment for which they’ve already received a grade, or
+— transferring the weighting of an assessment to another assessment.
+4.4. See the special consideration web page for the process for applying for special consideration and
+detailed requirements in relation to this process.
+Applications for special consideration are treated confidentially and only outcomes of the
+application are shared with staff outside the ARG: see the special consideration web page
+for a detailed confidentiality statement.
+The Academic Registrar may submit an application for special consideration on behalf of a
+student where a doctor certifies that the student is incapable of submitting the application
+Applications for special consideration must be accompanied by supporting documentation.
+Where documentation is in a language other than English, the student must provide an
+English translation by a NAATI accredited translator.
+Student disclosures of concerning, threatening or inappropriate behaviour are to be managed
+in accordance with Assessment – general processes, section 1.54).
+4.5. Circumstances that may meet the grounds for special consideration include (but aren’t restricted to):
+— physical or mental illness
+— carer responsibility for a member of the student’s immediate family
+— an unexpected, unavoidable employment commitment
+— bereavement of an immediate family member or someone else close to the student
+— having been the victim of a serious crime
+— an unexpected, unavoidable religious, cultural or family commitment.
+Circumstances such as not being fully vaccinated, providing a valid exemption, or failing to provide a
+vaccination status to the University are not grounds for special consideration.
+For a student to be eligible for late course withdrawal without academic penalty, they must
+demonstrate that their circumstances have:
+— had an impact for so much of the teaching period that it wasn’t practicable for them to
+fulfil course requirements, or
+— prevented them from completing substantial assessments despite adjustments that have
+been granted, so that they’ll fail the course unless a late withdrawal is granted.
+RMIT University | Assessment Processes
+4.5.2. Where a student:
+— provides supporting documentation stating that the student is incapacitated for study
+for a substantial part of the teaching period, or
+— applies for a further deferment of a substantial assessment task for which they have
+already been granted repeated deferments
+the Academic Registrar or their nominee may grant the student late course withdrawal
+without academic penalty if it is the only reasonable outcome.
+In instances where a student is seeking special consideration for the same examination for a third time,
+where eligibility has been established, the granted special consideration outcome will be restricted to
+‘Late Course Withdrawal Without Academic Penalty’ only, refer special consideration web page. No
+fourth opportunity will be provided for the student to complete the examination. Students may apply
+for removal of financial liability through available remission processes. Effective Term 1/Semester 1 2019.
+4.7. Applications for special consideration cannot be accepted from students who have either completed
+the examination or left the venue before completion and do not report their illness to the exam supervisor.
+Applications in these circumstances will be deemed to be ineligible and will be automatically withdrawn
+by the university. No appeal opportunity is provided. Effective Term 1/Semester 1 2019.
+4.8. Students can’t appeal the cancellation of their special consideration application because it is late,
+incomplete or because they haven’t provided supporting documentation within five days of submitting
+the application or within five days of being requested to provide supporting documentation.
+Students may, however, request a review of such a cancellation: see the special
+consideration web page for the review process.
+4.9. Where an application for special consideration is denied, the outcome communication refers the
+student to information about the appeal process.
+4.10. Students may appeal the outcome of a special consideration application where special consideration
+is denied: see sections 7.23–7.27 for the appeal grounds and process.
+Deferred assessments
+4.11. A deferred assessment is the opportunity to sit or re-sit an assessment activity at a later date where
+4.12. A deferred assessment tests the same areas of skill and depth of knowledge as the original assessment.
+If a student is granted a deferred assessment, the University will notify them of the date, time and
+venue, by email to their RMIT University student email account, at least five working days before the
+deferred assessment date.
+4.14 When a deferred assessment is granted, the course result is recorded by the Academic Registrar’s
+Group as DEF (deferred assessment) until the result of the deferred assessment is recorded. School/
+industry cluster staff may only replace a DEF result with the result of the deferred assessment once this
+It is the student’s responsibility to:
+4.15.1. check their student email account daily for notification of a deferred assessment
+4.15.2. comply with any instructions in the notification that they have been granted a deferred
+4.15.3. ensure that they are available to sit the deferred assessment, at the time and place specified
+in the notification.
+4.16. Deferred assessments must be held by the end of the first week of the following term/semester, where
+If the student does not sit the deferred assessment, and no further special consideration is granted,
+they will receive a mark of zero for the assessment task.
+4.18. The school/industry cluster that offers the course will calculate the student’s overall result in the course
+based on their result for the deferred assessment.
+4.19. The school/industry cluster will record the student’s final grade in the course before the deadline for
+adding or dropping courses in the next term/semester of study, where possible.
+RMIT University | Assessment ProcessesChapter 4
+Equitable learning plan
+4.20. See section 5.4 of the assessment and assessment flexibility policy for the purpose of equitable
+assessment arrangements (EAAs) and what adjustments these may provide.
+4.21. Students may register with Equitable Learning Services (ELS) and be assessed for an equitable
+learning plan (ELP), including an EAA, where they:
+— have a disability and/or long-term physical and/or mental health condition, or
+— have primary carer responsibility for someone with a disability and/or long-term physical and/or
+mental health condition.
+4.21.1. To register with ELS, students follow the process set out on the ELS web page.
+4.21.2. To ensure they can be assessed and receive any adjustments in time, students are advised
+to apply to ELS to register at least four weeks before the first assessment task for which
+they’ll need adjustments.
+4.21.3. Once a student is registered with ELS, ELS consult the student and, where necessary,
+college and school/industry cluster teaching and academic services staff, to reach agreement
+on appropriate alternative assessment adjustments (see section 4.26).
+4.21.4. Student disclosures of concerning, threatening or inappropriate behaviour are to be managed
+in accordance with Assessment – general processes, section 1.54).
+4.22. Where a student has an EAA, the program manager of the program in which the student is enrolled
+is responsible for ensuring all course coordinators are aware of the EAA and the types of adjustment
+4.22.1. The academic services team that supports the program should
+— help the program manager fulfil this responsibility, and
+— provide a generic email account to receive individual ELPs from ELS.
+4.23. Students who have an EAA are expected to:
+— communicate regularly with lecturers, teachers and assessors to ensure that the EAA is implemented
+— respond promptly to communications from staff requesting information in relation to their EAA
+— notify ELS promptly – and at latest within 10 working days – of any change in their condition that may
+require reassessment of their needs. (Students with an immediate need for additional adjustments
+should apply for special consideration in the interim, and provide supporting documentation from
+their treating health practitioner.)
+4.24. Students with a non-permanent or variable health condition and students who have primary carer
+responsibilities must register with ELS at the start of each academic year to review their condition
+and discuss how well their ELP is meeting their needs.
+4.24.1. The ELS may, however, approve an ELP to cover more than one academic year and waive
+the requirement for the student to reregister annually, where the student’s disability or health
+condition is permanent and unvarying.
+4.25. Where a student registers with ELS but isn’t granted an EAA, the ELS emails the student notifying
+them of the reasons for this decision and advising the student of the appeal process: see sections
+7.28–7.30 below for review and appeals in relation to EAAs.
+Alternative assessment arrangements
+4.26. The ELS, program staff and students arrange alternative assessment arrangements (AAAs) under an
+ELP by the following process.
+4.26.1. AAAs must be appropriate to the student’s needs, but can’t compromise the academic
+integrity of the course/program.
+4.26.2. Establishing this balance can be complex, so there must be consultation between the student,
+the program manager and relevant course coordinators to determine the best AAAs.
+4.26.3. Students should be encouraged to register with the ELS before the first teaching period or as
+early in the teaching period as possible.
+4.26.4. Once a student has registered with the ELS and the ELS has issued their ELP, an ELS staff
+member will notify the program manager and/or course coordinator that the school/industry
+cluster needs to meet the student to discuss AAAs.
+RMIT University | Assessment ProcessesChapter 4
+4.26.5. ELS disability advisors are available for the student and staff to consult about AAAs and how
+to handle discussing them, and a disability advisor may attend the meeting if requested.
+If the program hasn’t already defined and published its inherent requirements, the program
+team should meet before the meeting with the student, to define the program inherent
+requirements and consider what AAAs can reasonably be provided to the student.
+4.26.7. The meeting(s) with the student should consider the following points:
+— What are the essential learning outcomes for the course and/or program, and what
+learning outcomes are optional?
+— What abilities/knowledge/skills must the student demonstrate to complete the course
+and/or program successfully?
+— Does the course/program include requirements of an external registration authority such
+as the Australian Health Practitioner Regulation Agency or Victorian Institute of Teaching?
+If so, how do these professional registration requirements contribute to the discussion of
+learning outcomes and how these must be demonstrated?
+— Are the learning activities and assessment tasks the only way that the required abilities/
+knowledge/skills can be acquired or demonstrated?
+— Whether any AAA applies only to courses in which the student is currently enrolled,
+or can apply to other courses in the program in which they will enrol subsequently.
+If the meeting agrees on AAAs, program staff should document the agreed AAA and the
+rationale for it, and the program manager should authorise the document (either by signing
+and dating it or electronically by an email stating approval).
+4.26.9. The program manager or academic services team then sends the AAA document to the
+disability advisor, the student and course coordinators of courses in which the student is
+4.26.10. If the AAA can be used in subsequent courses, the program manager or academic services
+team provides the AAA to course coordinators of these courses when the student enrols in
+them, along with the notification of the student’s ELP.
+4.26.11. If, however, the meeting doesn’t agree on AAAs, the program manager sets out in a memo:
+— the inherent requirements of the course and/or program and why these require the
+relevant learning activities and assessment tasks
+— why the requested AAAs aren’t appropriate
+— why any preferred assessment tasks are necessary to demonstrate learning outcomes.
+4.26.12. The program manager endorses this memo and sends it to the Manager, ELS for approval.
+4.26.13. If the Manager, ELS approves the memo, it becomes a formal statement of the University’s
+position that the requested AAAs cannot be provided.
+4.26.14. Where AAAs can’t be provided, the program should as soon as possible provide academic
+counselling to the student to advise them on other more suitable study options.
+4.26.15. If the student isn’t satisfied with the denial of AAAs, they may be able to appeal it: see sections
+Assessment arrangements for elite athletes
+4.27. RMIT University is a signatory to the Elite Athlete Friendly Universities agreement, and under this
+agreement provides reasonable flexibility to enable students who are elite athletes to maintain their
+academic progress while fulfilling their elite sporting commitments.
+4.28. Only students who have been identified as elite athletes by the RMIT Sports team can be granted an
+elite sporting assessment arrangement (ESAA).
+4.29. An ESAA authorises schools or colleges in whose courses the student is enrolled to adjust assessments
+where the student’s elite sporting commitments conflict with their preparations for an assessment task
+or an assessment activity.
+4.30. To be eligible for a specific adjustment the student must provide supporting documentation to the
+school/industry cluster or college detailing the sporting commitment and its dates.
+4.30.1. The documentation must be an original or certified copy of a letter from the elite sporting
+organisation, on the organisation’s letterhead.
+RMIT University | Assessment ProcessesChapter 4
+4.31. A school/industry cluster or college may provide one or more of the following adjustments to a student
+who has an approved ESAA:
+— support where the student is unable to attend classes, such as notes, recordings, online lecture
+materials or occasional one-on-one catch-up sessions with academic staff (to be initiated by the
+— an extension to the original deadline of an assessment task, which can be greater than seven
+calendar days (for any further extension for the same assessment task, however, the student
+must apply for special consideration)
+— extra time to complete a presentation or flexibility in the timing of the presentation
+— extra time to submit gradable components of a tutorial, practical, laboratory or online activity
+— equivalent assessments in place of group work assessments, where the student’s absence to
+fulfil elite sporting commitments prevents them from participating in the group work.
+4.32. The following types of assessment adjustment can’t be provided under an ESAA: students must
+apply for special consideration to get these types of adjustment:
+— deferment of a test or exam
+— adjustments to participation in a work integrated learning placement or internship.
+RMIT University | Assessment ProcessesChapter 4
+Assessment – management of results
+This section applies to:
+— results for RMIT accredited courses
+— results for vocational education courses
+— results for coursework components of higher degree by research (HDR) programs.
+It doesn’t apply to the process for results for research components of HDR programs, but
+the grading tables under this section specify the grades that can be used for these courses.
+It doesn’t apply to externally assessed courses undertaken as part of the Victorian Certificate
+of Education or Victorian Certificate of Adult Learning.
+Types of grade and their approval for use
+5.2. See the student results grade tables for:
+— the grades that can be used for the various types of program and course at RMIT,
+— rules for their use, and
+— the expiry period of interim grades.
+The Deputy Vice-Chancellor Education and Vice President approves the schedules of final and interim
+grades that can be used at RMIT University.
+Final grades appear on the student’s transcript of results as a record of the student’s overall
+performance in assessment tasks for a course.
+Interim grades are used to record temporary statuses of the student’s course result up to the
+point where a final grade is determined.
+Interim grades are valid for a specified period, after which the interim grade may be converted
+to a default fail result.
+The Academic Registrar determines the period after which an interim grade applied to a
+student’s record will be converted to a default fail result
+After the specified period of validity of an interim grade has elapsed, if no final result has been
+recorded for the course enrolment by that time, the Academic Registrar’s Group will convert
+the interim grade to a default fail grade of (as appropriate) NN (Fail), EFG (External fail grade)
+or DNS (Did not submit for assessment).
+5.4. Administrative grades are approved for use by the Academic Registrar.
+Administrative grades are used where students are not to receive a final grade for administrative
+reasons: for example to record withdrawal after the course census date or remission of fees
+under special circumstances).
+Two grading systems are used at RMIT:
+— ungraded assessment (for vocational education courses this is the competency-based grading
+Result publication dates
+5.6. Students are entitled to final course results by the result publication date as published in the relevant
+academic calendar or set by ARG Integrity. See the Results Processing Online webpage for full
+RMIT University | Assessment Processes
+Exceptions to this rule are where:
+— a process under another university regulation or policy bars the student from receiving
+— where a student has been granted an extension of the assessment deadline, deferment
+of the assessment task or an equivalent assessment with a later deadline or date of
+performance of the task, so that the final result isn’t available by the result publication date.
+The learning management system may be used to provide students with results of their
+in-course assessments, which may suggest a provisional overall mark in the course: however,
+the final overall mark for the course may differ from the provisional overall mark because of
+moderation, special consideration or other adjustments to assessment, correction of errors,
+review of result, or as the outcome of a student conduct or appeal hearing.
+Management of final student results
+5.7. See sections 3.1–3.12 above for course assessment committees’ responsibility for deciding and
+approving final student results in courses.
+5.8. Schools/industry clusters/colleges approve results and enter them into Results Processing Online
+(RPO) by the deadline in the relevant academic calendar, to ensure results are ready to be published
+by the result publication date.
+For flexible delivery courses, however, schools/colleges set the result release date when
+scheduling the class: this date must be within 28 calendar days after the course end-date.
+5.9. Where the course uses graded assessment the school/industry cluster/college records an overall
+numeric mark for each student result, except under the following circumstances:
+5.9.1. where the student has gained a mark of 50% or more in a course but has failed the course
+because they failed a mandatory hurdle assessment: in this case the school/industry cluster/
+college enters an NH fail grade with no numeric mark; or
+5.9.2. where the student has passed a course after being granted a supplementary assessment, in
+which case the school/industry cluster/college enters an SP final grade with no numeric mark
+5.9.3. where a student has ceased engagement in a vocational education course, in which case
+the industry cluster/college enters an SEC final grade with no numeric mark.
+5.10. Student results are released by the Academic Registrar on or after the result publication date for the
+teaching period. See the RPO calendar containing result release dates on the Results Processing
+Changes to published results
+5.11. Schools/industry cluster/colleges may change published grades for one of the following reasons,
+where the student has not yet had their award conferred.
+5.11.1. Special consideration was granted and the final result has been determined.
+5.11.2. An error in the original result has been found, so that the result needs to be changed.
+5.11.3. An appeal outcome determined this grade change (appeals to the College Appeals
+Committee or University Appeals Committee).
+5.11.4. An interim grade (not a special consideration interim grade) is being replaced with a final result.
+5.11.5. A blank result is being replaced with a final result (other than an RPL pending or SEC – these
+have their own separate reasons – see below).
+5.11.6. A fail result (where an interim grade was converted to a fail) is being replaced with a final result.
+5.11.7. A supplementary assessment was granted and a final result has been determined (SP or NN).
+5.11.8. An SEC grade is being added or changed back to a blank grade (vocational education
+5.11.9. An RPL interim grade (RNY) is being added or replaced with a final RPL grade (vocational
+education courses only).
+5.11.10. EXTL – An exchange course transcript has been received and a pass EPG or fail EPG grade
+5.11.11. A&T – An apprenticeship and traineeship student has now completed and needs to have the
+graded date changed to reflect this.
+RMIT University | Assessment ProcessesChapter 5
+5.12. Where a graduate has had an award conferred, and the school, industry cluster or college finds that a
+grade needs to be changed for a course that was part of the graduate’s enrolment for the award, the
+school/industry cluster/college must email ARG Integrity (at assessmentsupport@rmit.edu.au) to request
+the grade change. See section 3 of the Conferral and Graduation Procedure for full information.
+5.13. ARG Integrity team may change published grades for one of the following reasons.
+5.13.1. A student appeal or conduct decision determined the grade change.
+5.13.2. An interim/blank result is being converted to a fail grade.
+5.13.3. ARG conversion – results have now expired and are being converted to fail grades.
+5.14. See the Changes to Grades webpage for full information. Staff change grades by the following process:
+5.14.1. Authorised staff initiate (using the online grade change process):
+— replacement of blank results or interim grades with a final result, or
+— replacement of a final result with a different final result as a correction.
+5.14.2. The school, industry cluster or college academic services team reviews and actions these
+changes (using the online changes to grades process) on behalf of the chair of the relevant
+course assessment committee.
+5.14.3. The school, industry cluster or college academic services team may also initiate and approve
+a grade change on behalf of a course coordinator where the updated result and evidence
+has been provided by the course coordinator: in this case the course coordinator will receive
+a notification of the grade change.
+5.14.4. The online grade change process
+— requires staff initiating changes to select a valid reason and, where appropriate, attach
+supporting documentation of the reason for the change, and
+— notifies students, by email to their RMIT student email account, on the next working day,
+informing them that their grade has been changed and of the reason for the change.
+5.14.5. The dean/head of school/associate director is responsible for ensuring that course
+assessment committees review reports of changes to grades via the online process to:
+— ensure integrity of assessment and
+— minimise the numbers of results that are not yet final at the result publication date.
+5.14.6. ARG Integrity, on behalf of the Academic Registrar, changes:
+— blank results to final fail grades (also see the next clause), and
+— interim grades to default final fail grades after the expiry period of the interim grades
+5.14.7. Where a result remains blank by the date when ARG Integrity must convert it to a final grade,
+ARG Integrity will convert it to the fail grade appropriate to the course.
+5.15. The student administration management system (SAMS) calculates a grade point average of each
+student’s marks in each program they undertake, to provide an overview of students’ level of
+achievement in their program. This is not applicable to vocational education programs.
+In some types of program, a student’s final grade point average in their completed program is used to
+decide what level of award they’ll receive.
+5.17. See the grade point average web page for full information on the way RMIT calculates and uses grade
+Weighted average mark
+5.18. For students who commenced their enrolment in a bachelor honours degree from 1 January 2016
+onwards, the student administration management system (SAMS) calculates a weighted average mark
+— all a student’s course marks in a one year honours program
+— courses designated as to be used for this calculation in four year bachelor honours programs.
+RMIT University | Assessment ProcessesChapter 5
+In a small number of double degree programs, however – where both component degrees
+are bachelor honours degrees – the student management systems can’t calculate the WAM
+accurately. For these programs the academic services team:
+— calculates the WAM manually and
+— emails the Completions, Awards and Graduations unit in the Academic Registrar’s Group
+(at awards@rmit.edu.au) asking them to override the system-calculated WAM with the
+manually calculated WAM.
+5.18.2. For students who commenced their enrolment in a bachelor honours degree before
+1 January 2016, their award level is calculated on the basis of their grade point average in the
+program: see the rescinded awarding degrees with honours or pass with distinction policy.
+5.19. The student’s weighted average mark in their completed program decides the level of honours of their
+bachelor honours award.
+5.20. See the weighted average mark web page for full information on the way RMIT calculates and uses
+weighted average marks.
+RMIT University | Assessment ProcessesChapter 5
+Assessment – academic progress processes
+Academic progress (coursework programs)
+This section sets out detailed rules for:
+— monitoring the academic progress of students in coursework programs
+— identifying students whose academic progress is unsatisfactory so they can be offered learning
+support, resources and assistance
+— where students continue to make unsatisfactory academic progress despite being offered support,
+considering whether to exclude them from their program
+Responsibilities of students and staff in relation to academic progress
+6.2. Students are responsible for maintaining their academic progress.
+6.2.1. Where a student is identified as having unsatisfactory academic performance, they’re
+responsible for taking steps to improve their performance by:
+— seeking advice from staff,
+— participating in development and implementation of an academic performance
+improvement plan, and
+— using academic and other support services.
+6.3. School, industry clusters and college staff are responsible for:
+— providing a learning environment in which students are able to improve their academic performance
+where it has been classified as unsatisfactory
+— monitoring students’ engagement with learning and assessment, and performance in assessment,
+— monitoring the academic progress of all students enrolled in coursework programs managed by
+the school/industry cluster, at the end of each semester; or, where programs are delivered in more
+or fewer than two standard teaching periods a year, at least every six months
+— where students are classified as having unsatisfactory academic performance, providing an
+academic intervention to develop an academic performance improvement plan.
+For Victorian Certificate of Education programs, continuous feedback is provided via Canvas
+for each Unit and students receive the formal statement of results and certificates from VCAA
+(Victorian Curriculum Assessment Authority) at the end of the year
+See also the responsibilities of program assessment boards in relation to academic progress
+in section 6 of the assessment and assessment flexibility policy and sections 3.13–3.21 above.
+The Academic Registrar’s Group is responsible for:
+— reviewing recommendations from deans/heads of school/associate director to exclude students
+from their program for sustained unsatisfactory academic performance, to ensure that the school,
+industry cluster or college has carried out academic progress interventions and the show cause
+process in accordance with these processes
+— where the recommendations have arisen from correct processes, excluding students from their programs
+— managing the process for appeals against academic progress exclusions, and supporting students
+through this process.
+Definition of unsatisfactory performance
+The Deputy Vice-Chancellor Education and Vice President has approved the criteria for classifying
+students as having unsatisfactory academic performance.
+RMIT University | Assessment Processes
+Approved correspondence templates and pro formas
+6.6. Academic progress is a sensitive process, governed by external regulations, and open to external
+review. Accordingly schools/industry clusters/colleges must use the approved academic progress
+templates for communication with students.
+Any modification to an academic progress template that school/industry cluster staff wish to
+make must be approved by ARG Integrity (email: assessmentsupport@rmit.edu.au).
+ARG Integrity reviews and updates the academic progress templates regularly in consultation
+with colleges, schools, industry clusters and other stakeholders.
+Identification of students with unsatisfactory academic progress
+6.7. Within 10 working days of the release of results for the relevant teaching period, professional staff acting
+on behalf of the chair of the program assessment board (PAB) identify all students in the program(s) for
+which the PAB is responsible, who meet the criteria to be classified as having unsatisfactory academic
+6.7.1. Where, however, a program is delivered in more or fewer than two standard teaching periods
+per year, this identification of students must occur at least twice a year: for example:
+— If a program is offered in three trimesters a year, it could occur after the first or second
+trimester, and after the third trimester.
+— If a program is offered in six teaching periods a year, it should occur after the third and
+sixth teaching periods.
+— Where vocational education courses are delivered over periods longer than half a year,
+the program must at least twice a year provide and document an academic advice
+intervention to students who are have failed assessment elements of the unit.
+Schools/industry clusters/colleges have discretion to offer students academic advice
+whenever they fail courses, without identifying them as having unsatisfactory academic
+performance at that time.
+The school/industry cluster/college will classify students who meet the unsatisfactory academic
+progress criteria for the first time in the program as first stage at risk (of unsatisfactory academic
+progress) in the program.
+6.8.1. Where students:
+— are undertaking closely related programs concurrently or in a sequence, or
+— are undertaking an RMIT program and a program with a partner institution concurrently
+under a partnership agreement, or
+— have been enrolled in a replacement version of a program, or the same program with
+a new award title, or a closely related program in the same discipline
+these programs can be considered to be a single program for the purpose of classifying
+students as at risk (first stage) or at risk (final stage).
+6.9. Within 10 working days after release of results for the teaching period, school, industry cluster or
+college academic services staff, on behalf of the PAB chair:
+— inform students who are classified as first stage at risk of this fact, and
+— invite the student to an academic advice interview or
+— tell them how to request an academic advice interview.
+For this notification, the school, industry cluster or college uses the approved academic
+6.10. Schools/industry clusters have two options for this academic intervention with students classified as
+first stage at risk.
+6.10.1. Option 1 – create an academic performance improvement plan (APIP) and send it to the
+student with an invitation to attend an academic advice interview, as follows.
+— The academic services team emails to the student’s RMIT student email account the at
+risk notification including a completed academic performance improvement plan (APIP).
+RMIT University | Assessment ProcessesChapter 6
+— The communication offers the student the chance to attend an academic advice interview
+to develop an APIP more tailored to their circumstances if they choose.
+— The academic services team places the notification and APIP on the student file.
+— If the student doesn’t request an academic advice interview within five working days
+they’re considered to have accepted the APIP that was sent to them.
+6.10.2. Option 2 – create the APIP at the time of the academic advice interview, as follows.
+— The academic services team emails to the student’s RMIT student email account the at risk
+notification and an invitation to attend an academic advice interview to develop an APIP.
+— The academic advisor and student collaborate at the interview to develop the APIP.
+— If the student doesn’t participate in the interview, the school/industry cluster subsequently
+creates an APIP without input from the student and emails it to the student’s RMIT email
+6.10.3. Option 1 or Option 2 (above) should normally be done at least five working days before the
+last date to add courses in the next teaching period to provide students with an opportunity
+to amend their enrolment where necessary, or where this is not possible, within the first four
+weeks of the next teaching period.
+— The academic services team places the notification and APIP on the student file.
+6.10.4. The purpose of the academic advice interview is to give the student an opportunity to identify
+personal and study factors impeding their academic performance and contribute to their APIP.
+6.10.5 The APIP sets out the actions they should take to improve their academic performance, and
+identifies relevant support services the student can use. The APIP should be an
+unambiguous document that will act as:
+—an action plan for the student; and,
+—a clarification of the expectation of the University regarding the student’s progress
+It must be designed to assist the student to complete their academic program within its
+normal duration and should be tailored to the individual needs of the student. It must:
+—clearly identify on what grounds the student has been deemed to be ‘at risk’
+—be explicit in indicating/referring support services relevant to the student’s needs
+—be explicit in advising students of any relevant policies/procedures
+—notate the reasons provided by the student for their poor academic performance
+(where provided); and
+—notate any evidence provided by the student in support of any stated impact on their study
+6.10.6 Where the program team believes that a student is struggling to fulfil the inherent
+requirements of the program because of a disability or long-term physical or mental health
+condition, the program manager or a senior school academic leader should hold the
+academic advice interview. See sections 6.22–6.23 below for more information.
+6.11. Where a student meets the criteria to be classified as having unacceptable academic performance
+for a second time in the same program, they should be classified as at risk final stage (established
+unacceptable academic performance).
+6.11.1. The chair of the relevant program assessment board (or in a vocational education program,
+the program manager) has discretion, however, not to classify a student as final stage at risk,
+but to allow them to continue in the program at first stage at risk, if the student is close to
+completing the program or where compassionate and compelling circumstances known to
+the school/industry cluster exist.
+6.11.2. The following types of students are never classified as at risk final stage:
+— apprentices and trainees (whose academic progress is managed in accordance with
+their training contract)
+— local Victorian Certificate of Education and Victorian Certificate of Applied Learning students
+(whose academic progress is managed in accordance with the procedures of the Victorian
+Curriculum and Assessment Authority)
+— fee-paying students in Open Universities Australia (OUA) programs delivered by RMIT
+University (but students in commonwealth-supported places in OUA programs delivered
+by RMIT may be classified as final stage at risk).
+RMIT University | Assessment ProcessesChapter 6
+6.12. Where a student is classified as at risk final stage, the academic services team of the school, industry
+cluster or college, on behalf of the program assessment board (PAB) chair, informs them of this fact
+and invites them to show cause why they shouldn’t be excluded from their program.
+6.12.1. The school, industry cluster or college emails this invitation to the student’s RMIT student email
+account within 10 working days of publication of results for the relevant teaching period.
+6.12.2. For this invitation the school, industry cluster or college uses the relevant template from the
+approved academic progress templates.
+6.12.3. The invitation gives the student 10 working days from the date on which the invitation is sent
+to them to submit their show cause submission.
+6.12.4. The school, industry cluster or college retains a copy of the show cause invitation on the
+6.13. The student’s show cause submission should disclose the issues and circumstances that have impeded
+their academic performance, and explain how the student intends to improve their academic performance.
+6.13.1. As far as possible, the student should provide independent supporting documentation of the
+relevant issues and circumstances.
+6.13.2. Any supporting documentation should be in English or, if it is not in English, the student must
+provide a translation into English by an accredited translator.
+6.14. The PAB (or, in vocational education programs, the program team) then considers each student’s show
+cause submission and decides whether to
+— recommend to the dean/head of school/associate director that the student be excluded from the
+— permit the student to continue in the program with a classification of at risk first stage.
+6.14.1. The PAB makes the same decision in relation to students who have been invited to show
+cause but who haven’t made a show cause submission.
+In accordance with the timelines published for academic progress by the ARG, the PAB (or in vocational
+education programs, the program team) must decide whether ‘final stage’ students who have been
+invited to show cause have demonstrated cause to be permitted to remain in the program, or whether
+to recommend exclusion to the Dean/Head of School/Associate Director. It isn’t mandatory to
+recommend exclusion at this point, even if the student doesn’t make a show cause submission.
+Exclusion has a significant impact on both the student and the University, so it is expected that the
+PAB will be satisfied that documented and reasonable attempts have been made to gain the student’s
+engagement during the period since academic difficulties were first identified.
+In considering any show cause submission the PAB must:
+— exercise academic judgement
+— take account of the student’s overall performance in the program and any other relevant issues
+— take into consideration any exceptional, individual, compassionate or compelling
+circumstances experienced by the student that have impeded the student’s academic
+performance, and which may have less of an impact in future (refer to the definition of
+compassionate or compelling circumstances used in the DEEWR-DIAC course progress
+— respond to student disclosures of concerning, threatening or inappropriate behaviour in
+accordance with Assessment – general processes, section 1.54), and
+— comply with the privacy principles and policy.
+6.15.2 Other factors the PAB should consider include:
+— whether the student is close to completing the program
+— whether the student has shown signs of improving their performance since they were
+previously classified as at risk, so that there’s a possibility they may improve further.
+— the general principle that it isn’t in students’ interest to continue expending time and money
+in studying a program where their academic progress continues to be unsatisfactory
+— the University’s responsibility to exclude students where it seems unlikely that they will be
+able to fulfil program requirements.
+6.15.3 Where the PAB decides to allow a student to continue in their program the student must be
+invited to attend a further meeting with an academic advisor and another APIP must be
+completed and provided to the student (whether the student attends the meeting or not).
+RMIT University | Assessment ProcessesChapter 6
+6.15.4 Where the PAB decides to recommend exclusion it must specify any conditions for acceptance
+back into the program. Students wishing to apply for re-admission after the expiry of their
+period of exclusion may apply via the standard competitive application process/es and their
+previous academic performance must be taken into account in considering their application.
+6.15.5 Where the PAB decides to recommend exclusion and the student submitted a timely show
+cause submission, the PAB must provide a detailed response to the student which:
+— directly addresses each of the circumstances, explanations and evidence the student
+presented in their submission; and
+— states the reason/s these were not sufficient to warrant continuation in the program.
+6.15.6 Students have a right to know on what basis important decisions are made regarding their
+entitlement to candidature.
+6.16. Where the PAB (or in vocational education programs, the program team) permits a student to continue
+in the program with a classification of at risk first stage, the school, industry cluster or college should
+within 10 days of this decision inform the student of this fact and offer them an academic advice
+interview, as for other students with this classification: follow the steps in sections 6.8–6.10 above.
+6.17. Where the PAB (or in vocational education programs, the program team decides to recommend
+exclusion of a student, the following process steps occur.
+6.17.1. For each teaching period, the Academic Registrar sets a deadline by which schools/industry
+clusters must recommend any exclusions for unsatisfactory academic progress.
+6.17.2. Within five working days of the decision, the academic services team notifies the student
+of this outcome by email to their student email account.
+6.17.3. For this notification the school, industry cluster or college uses the relevant template from the
+approved academic progress templates.
+6.17.4. The PAB makes a recommendation to the dean/head of school/associate director,
+recommending an exclusion period of 12 months, by the deadline for these recommendations
+in the relevant academic progress timeline.
+6.17.5. For this notification the school, industry cluster or college uses the relevant template from the
+approved academic progress templates.
+If the dean/head of school/associate director approves the recommendation, they or their
+nominee notifies the Academic Registrar (at academicprogress@rmit.edu.au), by the deadline
+in the relevant academic progress timeline, of the decision to exclude. This notification must
+— a copy of the PAB exclusion recommendation including the reasons for the decision,
+duration of the exclusion and any conditions for readmission to the program
+— a copy of any APIPs
+— copies of all correspondence relating to the student’s academic progress.
+6.17.7. ARG Integrity reviews the exclusion notification to check that, in accordance with the rules
+in this section of the assessment processes:
+— the student has been kept informed of their academic progress status and decisions in
+— academic interventions have been provided to the student, and
+— the student has been offered an opportunity to show cause why they shouldn’t be excluded.
+If ARG Integrity finds that the academic progress processes have been applied correctly, they
+notify the student, by email to their student email account, of their exclusion and the
+opportunity to appeal it.
+6.17.9. The date this notification is sent is the date on which the exclusion will start if it isn’t overturned
+on appeal. See sections 7.18–7.22 below for the processes for appeals against exclusion.
+6.17.10. A student who has been notified of their exclusion must remain enrolled or on an approved
+leave of absence; if enrolled, they can continue to attend classes until the end of the 20 working
+days period in which they may appeal the decision and/or make an external complaint. If they
+appeal or complain, they remain enrolled and can continue to attend classes until the outcome
+of their appeal is known.
+6.17.11. If the student doesn’t submit an appeal within 20 working days after the exclusion notification
+is sent to them, ARG Integrity will arrange for the student’s enrolment to be cancelled.
+RMIT University | Assessment ProcessesChapter 6
+Effects of exclusion
+6.18. A student who has been excluded is not a student of the university during their period of exclusion
+unless they’re admitted to and enrol in another program.
+6.19. The university reports the exclusion of students studying in Australia on a student visa to the Department
+of Immigration and Border Protection (DIBP), unless the exclusion is overturned on appeal or review.
+The Education Services for Overseas Students (ESOS) National Code, under the ESOS Act 2000,
+requires the university to report excluded students, to ensure that student visa requirements are not
+6.20. A student who has been excluded from their program can’t be readmitted to the program for a period
+of 12 months from the date on which the exclusion commenced (see section 6.17 above).
+6.20.1. Readmission to the program isn’t automatic, but is subject to a selection decision, in the
+same way that other applicants to the program may be selected for the offer of a place.
+6.20.2. The selection officer should consider whether the applicant has a reasonable likelihood of
+success in the program based on the results of their most relevant previous study, including
+their previous performance in the program. (Also see sections 6.24–6.25 below.)
+6.20.3. The applicant should include in their application any information and supporting documentation
+to establish that they’ve improved their likelihood of maintaining satisfactory academic progress –
+for example, showing that circumstances which impeded their academic performance are no
+6.21. A student who has been excluded from a specific program may apply for admission to other RMIT
+programs during their period of exclusion – unless they have also been expelled or had their enrolment
+suspended as the result of other processes such as a student conduct process.
+6.21.1. Admission to another program is not automatic, but is subject to a selection decision, in the
+same way that other applicants to the program may be selected for the offer of a place.
+6.21.2. The selection officer should consider whether the applicant has a reasonable likelihood of
+success in the program based on the results of their most relevant previous study, including
+their previous performance in the program from which they’ve been excluded.
+6.21.3. The applicant should include in their application any information and supporting documentation
+to establish that they’ve improved their likelihood of maintaining satisfactory academic progress –
+for example, showing that circumstances which impeded their academic performance are no
+Inherent requirements
+6.22. Many RMIT programs have defined their inherent requirements (the non-academic abilities needed to
+complete a given program). The purposes of defining inherent requirements are to:
+— enable students to make an informed choice about whether they believe they can succeed in the
+— clarify what reasonable adjustments the university and the program can make to help a student
+succeed, without compromising the program’s inherent requirements.
+6.23. For further detail on inherent requirements, see the Commitment Statement on Program Inherent
+Supplementary assessments
+6.24. A supplementary assessment is an exceptional further assessment opportunity so that a school/
+industry cluster can determine whether a student has achieved the learning outcomes of a course.
+6.25. Students are not entitled to apply for a supplementary assessment: supplementary assessments are
+only available as follows.
+— A course assessment committee may grant a student a supplementary assessment under the
+circumstances stated in the course assessment committees section of these processes: see
+sections 3.8–3.9 above.
+— A program assessment board may grant a student a supplementary assessment under the
+circumstances stated in the program assessment boards section of these processes: see
+— A College Appeals Committee or the University Appeals Committee may grant a supplementary
+assessment as an outcome of an appeal.
+RMIT University | Assessment ProcessesChapter 6
+6.26. Where a supplementary assessment is granted, the school/industry cluster notifies the student of the
+date, time and venue, by email to their student email account, at least five working days before the
+supplementary assessment date, unless both the school/industry cluster and the student have agreed
+to a shorter period of notice.
+6.27. Where the student has initially failed an assessment component or components of a course, the
+supplementary assessment is for those components only.
+6.28. Wherever possible, a supplementary assessment is prepared by the original assessor or course
+coordinator and tests the same areas of skill and depth of knowledge as the original assessment.
+6.29. Supplementary assessments should be held as soon as practicable so that students have their course
+results in time to finalise their enrolment in the next teaching period.
+6.29.1. Where a program is delivered in two standard semesters per year, supplementary assessments
+are normally held in the deferred examination period following each semester; other than in
+exceptional circumstances, supplementary assessments must be held by the end of the first
+week of the following standard semester.
+6.29.2. Where a program is delivered in more than two standard teaching periods per year, supplementary
+assessments must be held within four weeks after the results publication date for the relevant
+6.30. A supplementary assessment can lead to the following result outcomes.
+6.30.1. When a student is granted a supplementary assessment, the school/industry cluster that
+manages the course records the interim grade SUP (supplementary assessment granted),
+which remains until the outcome of the supplementary assessment is known or the interim
+grade expiry period passes.
+If the student passes the supplementary assessment, and the course is a higher education,
+course the school/industry cluster replaces the SUP with an SP grade (an ungraded pass
+with a grade point value of 1).
+If the student achieves a lower result in the supplementary assessment than they did in the
+original assessment task, the school/industry cluster restores the student’s original fail grade
+in place of the SUP.
+6.30.4. For vocational education courses the school/industry cluster records a grade of CA if the
+student demonstrates competency in the supplementary assessment or NYC if they do not.
+6.31. The school/industry cluster records the student’s final grade before the deadline for students to add
+courses for the next standard teaching period, unless exceptional circumstances prevent the school
+from meeting this deadline.
+6.32. These processes do not apply to:
+6.32.1 Foundation Studies
+6.32.2 Higher Degrees by Research
+6.32.3 non-award courses.
+Maximum time to complete a coursework program
+6.33. Students are required to complete all study to fulfil the requirements of their program within certain
+time limits to ensure:
+6.33.1 currency of knowledge for RMIT graduates
+that the University has the capacity to accept new students.
+6.34. Students who cannot complete the program within the maximum time can be classified by the
+Program Assessment Board as at risk in accordance with the academic progress processes described
+6.35. Where students are required to study full-time as a visa condition or as a condition of enrolment in the
+particular program, the maximum time for completion is the normal full-time duration plus 50% of the
+normal full-time duration.
+6.36. For all other students, the maximum time for completion is defined as follows:
+RMIT University | Assessment ProcessesChapter 6
+In an undergraduate coursework program, the maximum time is the normal part-time
+duration plus 50% of the normal part-time duration, up to a maximum total time of 20
+teaching periods or 10 years.
+In a postgraduate coursework program, the maximum time is twice the normal part-time
+If a program has a non-standard volume of learning because all students enter on the basis
+of a qualification for which they would otherwise have to receive a substantial block of credit
+(e.g. a 192 credit points bachelor degree or a 96 credit points master degree) then the
+maximum time for completion is calculated as described.
+6.37. To calculate the time a student has been enrolled in a program (the time enrolled), the time starts on
+the start date of the first class in which the student is enrolled in the program.
+6.38. Teaching periods in which it is optional for the student to enrol, such as the Spring and Summer
+Semesters in Melbourne, are not included in the calculation of the time enrolled. Where, however, the
+program structure requires students to enrol in those semesters, they are counted in the calculation.
+6.39. Work experience in industry or co-op years that are part of the approved program structure are
+included in both the program’s normal duration and the student’s enrolled time.
+6.40. The following periods of time are excluded from the calculation of a student’s time enrolled:
+6.40.1 Periods of approved leave of absence.
+6.40.2 Periods of exclusion for sustained unsatisfactory academic performance.
+6.40.3 Periods of suspension under the student conduct policy.
+6.41. Where a continuing student fails to enrol, their enrolment is discontinued and they subsequently apply
+for readmission to the program or to a replacement program that is considered by the University to be
+the same program, all of the intervening time is considered to be part of the student’s time enrolled, as
+the University has not initiated or approved the student’s absence.
+6.42. Where a student is transitioned to a new version of a program or a replacement program, the student’s
+time enrolled is still considered to have started from the first day of the first teaching period in which
+they were enrolled in their original program. This should be made clear to students in the letter
+informing them of the transition arrangements.
+6.43. Where a student is admitted to an unrelated program, the count of time enrolled starts from the first
+day of the first teaching period in which the student is enrolled in the new program.
+6.44. Tables 1 and 2 set out the normal durations and maximum times for all students in the types of
+Table 1: Full-time duration and maximum time to complete a coursework program
+Applies to students on international student visas in Australia or where full-time study is required as a
+condition of enrolment in the program.
+Higher education diploma (96 credit points)
+Three year bachelor degree
+Four year bachelor degree (includes double
+degrees, bachelor honours degrees)
+Five year double degree
+One year bachelor honours degree
+Graduate certificate
+Master by coursework
+* The maximum time permitted where a program is delivered in two standard semesters a year.
+RMIT University | Assessment ProcessesChapter 6
+Table 2: Part-time duration and maximum time to complete a coursework program
+Applies to students who are not on international student visas in Australia or where full-time study is not
+required as a condition of enrolment in the program.
+Higher education diploma (96 credit points)
+Three year bachelor degree
+Four year bachelor degree (includes double
+degrees, bachelor honours degrees)
+Five year double degree
+One year bachelor honours degree
+Graduate certificate
+Master by coursework
+* The maximum time permitted where a program is delivered in two standard semesters a year.
+RMIT University | Assessment ProcessesChapter 6
+Assessment – review and appeal processes
+Review of assessment and appeals
+The remaining sections of these processes set out the processes to be followed if a student wishes
+to seek review of, or appeal against:
+— their final assessment result for a course, or
+— their exclusion from their program for continued unsatisfactory academic performance, or
+— a denied outcome of a special consideration application, or
+— a denied equitable assessment arrangement.
+The school/industry cluster that manages the relevant course is responsible for resolving studentinitiated reviews of assessment results by the processes below.
+Grounds for review and appeal of a final course assessment result
+7.3. Students are entitled to seek a review of their final result for a course, or appeal against their final result
+in the course, where they provide evidence that at least one of the following grounds of review or appeal
+there’s been an error in the calculation of the result, or
+the assessment(s) didn’t comply with the description of the assessment or the assessment
+criteria published in the course guide, or
+the assessment(s) or the assessment criteria published in the course guide aren’t consistent
+with the requirements of the relevant training package or accredited course, or
+the assessment didn’t comply with the assessment policy or processes or another relevant
+rule or University policy (that is, there’s been an error in process), and this had a significant
+impact on the result.
+Stage one – school/industry cluster-level review of final course result
+7.4. Where a student has evidence of at least one of the grounds in section 7.3 above, they must first ask the
+course coordinator/program manager responsible for the course to review the final grade for the course.
+Students are recommended to request these reviews within five working days from the
+publication of the result, so they will still have time to appeal the result if necessary.
+7.4.2. Where the course coordinator/program manager isn’t available the student may ask the
+dean/head of school/associate director to review the result.
+7.5. Assessments for research component courses in bachelor honours or masters by coursework programs,
+of 24 credit points or more, are assessed by more than one assessor: accordingly marks for these
+assessments are considered already to have been reviewed.
+This rule includes research components that take the form of a single research or professional
+practice project, or dissertation or thesis, carried out in two 12 credit points courses.
+Students can however appeal a result in such courses by the process in sections 7.10–7.16
+7.6. Schools/industry clusters are expected to consider reviews as a matter of urgency, so that the student
+knows the outcome of the review before the end of their appeal time-frame (see section 7.11 below).
+RMIT University | Assessment Processes
+7.7. Possible outcomes of a review are:
+7.7.1. None of the grounds for review are considered to be met and the result stands.
+7.7.2. One or more of the grounds for review is considered to be met and the result is changed.
+An independent assessor (either internal or external) is asked to re-assess the student’s
+The reviewer may ask the chair of the course assessment committee responsible for the
+course to approve the granting of a supplementary assessment.
+A vocational education student cannot be granted a pass (competent) result in place of a fail (not yet
+competent) result as the outcome of a review. The student must be assessed as competent in an
+assessment that meets the requirements of the standards for National VET Regulator Registered
+Training Organisations.
+If the student is dissatisfied with the outcome of review and has evidence of one or more of the grounds
+of review/appeal in section 7.3 above, they may appeal the result to the College Appeals Committee.
+Appeals against final course assessment results
+7.10. Students can appeal a final course assessment result to the College Appeals Committee (ColAC)
+7.10.1. provide evidence of at least one of the grounds of review/appeal in section 7.3 above, and
+7.10.2. demonstrate that they asked for a review of the result as described in sections 7.4–7.8 above
+but are dissatisfied with the outcome or have received no response.
+7.11. Students submit appeals to the ColAC using the Application for Appeals – College Appeals Committee
+7.11.1. They must submit the completed appeal form to the deputy vice-chancellor of the college
+that includes the school/industry cluster which manages the course.
+7.11.2. They must submit the form within 20 working days from the date of publication of the result.
+7.11.3. Students are advised to submit their appeal early, so that the outcome of their appeal can
+be decided in time for them to make any adjustments to their enrolment in the next teaching
+7.12. Where the college deputy vice-chancellor or their nominee decides that the student appeal meets the
+grounds for appeal, the ColAC is normally convened to hear the appeal within 20 working days from
+the day the college received the appeal submission, unless:
+— more time is needed to negotiate a resolution with the school/industry cluster, or
+— exceptional circumstances warrant a delay.
+7.13. A vocational education student cannot be granted a pass (competent) result in place of a fail (not yet
+competent) result as the outcome of an appeal. The student must be assessed as competent in an
+assessment that meets the requirements of the standards for National VET Regulator Registered
+Training Organisations.
+7.14. The ColAC advises the student (by email to their student email account) and the dean/head of school/
+industry cluster of the outcome of the appeal within five working days of the appeal hearing.
+7.14.1. The notification informs the student of further avenues of appeal/review available to them.
+7.15. Subject to the following limited exceptions, the appeal outcome from a ColAC is final and cannot be
+7.16. Where a student identifies a breach of university regulation, policy or process in the handling of their
+appeal by the ColAC, which has had a significant impact on the outcome, they may appeal the outcome
+to the University Appeals Committee.
+7.16.1. Such appeals must be submitted within 10 working days of the day on which the notification
+of the ColAC outcome was sent to the student.
+7.16.2. Such appeals must specify the breach of regulation, policy or process that the student believes
+has occurred and provide evidence to demonstrate how this had significant impact on the
+RMIT University | Assessment ProcessesChapter 7
+7.17. Vocational education students who believe the course assessment did not meet the requirements of
+the relevant training package or accredited course can seek a review of the matter by the Victorian
+Registration and Qualifications Authority or Higher Education Skills Victoria.
+Appeals against exclusion
+7.18. Students with a current enrolment (including those on an approved period of leave of absence) are
+entitled to appeal the decision to exclude them from a program for continued unsatisfactory academic
+performance to the University Appeals Committee (UAC) if they meet one or more of the following
+7.18.1. They provide evidence that the decision to exclude was made on the basis of personal bias
+7.18.2. They provide evidence that there was a breach of a relevant rule or University policy in the
+handling of the exclusion process, which had a significant impact on the decision to exclude
+7.18.3. They provide significant new, relevant evidence applicable to the period/s of unacceptable
+academic performance that was not available at the time the student was required to show
+cause why they should not be excluded.
+7.18.4. They provide evidence that the penalty of exclusion is unreasonable, excessive or
+inappropriate (this includes evidence of compassionate or compelling circumstances).
+7.19. For a student’s appeal to be considered, they must:
+— submit it within 20 working days of the day on which the Academic Registrar sent the notification
+— use the appeal against exclusion form, which is available from the appeal forms web page.
+7.20. A student who has been notified of their exclusion must remain enrolled and can continue to attend
+classes until the end of the 20 working days period in which they may appeal the decision. If they
+appeal, they must remain enrolled and can continue to attend classes until the outcome of their
+7.20.1. A student appealing against exclusion is not entitled to receive final results for any courses
+in which they’re currently enrolled unless the appeal is successful or the exclusion decision
+is overturned on external review.
+7.20.2. Where a student has been notified of their exclusion, and is on approved leave of absence,
+the exclusion will replace the leave of absence once any appeal process is complete, unless
+the appeal is successful or the exclusion decision is overturned on external review.
+7.20.3. Student disclosures of concerning, threatening or inappropriate behaviour are to be managed
+in accordance with Assessment – general processes, section 1.54).
+If the student’s appeal application to the UAC is assessed by the Academic Registrar or their nominee
+as meeting the grounds in section 7.18 above, the School, Industry Cluster or College will be invited to
+review the decision to exclude the student.
+If the School, Industry Cluster or College retracts the exclusion decision and permits the
+student to continue in the program at first stage at risk, the relevant academic services team
+will arrange an academic advice intervention as in sections 6.8–6.10 above.
+If the School, Industry Cluster or College doesn’t retract the exclusion decision, the appeal
+will be heard by the UAC, normally within 20 working days from the day the UAC secretariat
+considered the submission to be complete. In exceptional circumstances, it may take up to
+30 working days to hear the appeal where negotiation with the school/industry cluster is
+If the UAC dismisses the appeal, the UAC secretariat will inform the student of the outcome and that
+they have 10 working days to seek an external review of this decision if they choose.
+If a student applies for external review of the decision to exclude them, and provides satisfactory
+evidence of this application to the UAC secretariat, they will remain enrolled or on approved
+leave of absence (as relevant) until the outcome of the review application is known.
+RMIT University | Assessment ProcessesChapter 7
+If the student does not provide satisfactory evidence that they have applied for external review
+within 10 working days after the date the notification of the UAC decision is emailed to them, or
+if they apply for external review and the outcome is that the exclusion stands, the Academic
+Registrar’s Group will cancel the student’s enrolment as of the date of the original exclusion
+notification, removing results for assessments attempted during the appeal and external
+review period (see section 6.17.9 above).
+Appeals against special consideration outcomes
+7.23. Students cannot appeal against a granted, withdrawn or cancelled special consideration outcome.
+However, students can request a review of a cancelled outcome due to lateness or failure to provide
+supporting documentation: see the special consideration web page for the process for these reviews.
+7.24. A student may appeal to the University Appeals Committee (UAC) against a denied outcome of a
+special consideration application.
+7.25. For an appeal to be considered:
+the student must submit the application on the appeal against a special consideration
+outcome form (available from the appeal forms web page) within 10 working days after
+the date the email notifying the student of the outcome was sent; and
+the appeal must meet one of the following grounds:
+— the student has provided additional relevant information or evidence that was not available
+at the time of the original application, which would have had a significant impact on the
+special consideration outcome
+— the student has provided evidence of a breach of a relevant rule, University regulation,
+policy or process that would have had a significant impact on the special consideration
+7.26. On receipt of the appeal, the UAC secretariat invites ARG Integrity to review the appeal submission
+together with the relevant special consideration application.
+If following this review:
+7.27.1. ARG Integrity doesn’t change the outcome of the special consideration application to
+the Academic Registrar or their nominee assesses the student’s appeal application as meeting
+the grounds in section 7.3 above, then
+the appeal will be heard by the UAC.
+Review and appeals in relation to equitable assessment arrangements
+7.28. Where a student who registers with Equitable Learning Services (ELS) is not granted an equitable
+learning plan (ELP), or is dissatisfied with the ELP they’re granted, they may ask the Associate Director
+Equity and Inclusion to review it.
+7.28.1. To be eligible for this review a student must provide new evidence that their ELP does not
+provide an adjustment in accordance with University policy or the Disability Standards for
+7.29. A student may appeal to the University Appeals Committee against a decision not to grant them an
+equitable assessment arrangement (EAA) or against a decision not to provide them with an alternative
+assessment arrangement (AAA).
+7.30. For such an appeal to be considered,
+the student must submit their appeal using the appeal against an equitable assessment
+arrangement form (available from the appeal forms web page) within 10 working days
+following the day on which they were emailed the notification of the decision not to grant
+them an EAA or not to provide them with an AAA, and
+the student must provide evidence that the decision involved a breach of the relevant
+standard, University regulation, policy or process, that would have had a significant impact
+7.30.3. That there is new evidence that was not available at the time of their application.
+RMIT University | Assessment ProcessesChapter 7

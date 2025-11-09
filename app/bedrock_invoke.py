@@ -1,24 +1,26 @@
-import os
-import json
-import boto3
+import os, json, boto3
 
 REGION = os.getenv("BEDROCK_REGION", "ap-southeast-2")
-MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "anthropic.claude-3-haiku-20240307-v1:0")
+MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "anthropic.claude-3-haiku-20240229-v1:0")  # or haiku 20240307
 
-def invoke_bedrock(prompt_text, max_tokens=640, temperature=0.2, top_p=0.9):
+def invoke_bedrock(prompt_text, max_tokens=200, temperature=0.3, top_p=0.9, debug=False):
     client = boto3.client("bedrock-runtime", region_name=REGION)
-    payload = {
-        "anthropic_version": "bedrock-2023-05-31",
-        "max_tokens": max_tokens,
-        "temperature": temperature,
-        "top_p": top_p,
-        "messages": [{"role": "user", "content": prompt_text}],
-    }
-    resp = client.invoke_model(
-        body=json.dumps(payload),
-        modelId=MODEL_ID,
-        contentType="application/json",
-        accept="application/json",
-    )
-    data = json.loads(resp["body"].read())
-    return data["content"][0]["text"]
+    try:
+        resp = client.converse(
+            modelId=MODEL_ID,
+            messages=[{"role": "user", "content": [{"text": prompt_text}]}],
+            inferenceConfig={
+                "maxTokens": int(max_tokens),
+                "temperature": float(temperature),
+                "topP": float(top_p),
+            },
+        )
+        blocks = resp.get("output", {}).get("message", {}).get("content", [])
+        for b in blocks:
+            if "text" in b:
+                return b["text"]
+        return json.dumps(resp, indent=2)
+    except Exception as e:
+        if debug:
+            raise
+        return f"[Bedrock error] {e}"

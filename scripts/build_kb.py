@@ -1,9 +1,20 @@
 import re
 import json
 from pathlib import Path
+from typing import List, Dict, Tuple
 
-INTER = Path("data/intermediate")
-KB = Path("data/kb.jsonl")
+import joblib
+from scipy import sparse
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+ROOT = Path(__file__).resolve().parents[1]  # project root
+CLEAN_DIR = ROOT / "data" / "clean"
+# where session_ingest.py expects these:
+KB_PATH   = CLEAN_DIR / "kb.jsonl"
+VEC_PATH  = CLEAN_DIR / "vectorizer.pkl"
+MAT_PATH  = CLEAN_DIR / "matrix.npz"
+
+# --- your helpers carried over / adapted ---
 
 def infer_tags(heading: str, text: str):
     k = (heading + " " + text[:600]).lower()
@@ -62,6 +73,21 @@ def infer_tags(heading: str, text: str):
             tags.append(tag)
     return sorted(set(tags))
 
+def tags_to_category(tags: List[str]) -> str:
+    """
+    Map your tags to the role keys used in session_ingest.py.
+    """
+    t = set(tags)
+    if t & {"integrity","misconduct","assessment","extensions","special","appeals",
+            "census","enrolment","credit"}:
+        return "policy_admin"
+    if t & {"study","time","writing","groupwork"}:
+        return "study_skills"
+    if t & {"els","elp","accessibility","neurodivergent","gender-affirmation","lgbtiqa",
+            "wellbeing","safer-community"}:
+        return "identity_access"
+    return "general"
+
 def split_by_headings(text: str):
     """
     Split by Markdown headings OR ALL-CAPS headings as a heuristic.
@@ -91,29 +117,59 @@ def sub_chunk(text: str, limit=1100):
         out.append(buf)
     return out
 
-def main():
-    KB.unlink(missing_ok=True)
-    count = 0
-    with KB.open("w", encoding="utf-8") as fout:
-        for p in INTER.glob("*.txt"):
-            source_title = p.stem.replace("_", " ").title()
-            raw = p.read_text(encoding="utf-8")
-            for heading, body in split_by_headings(raw):
-                for i, piece in enumerate(sub_chunk(body, limit=1100)):
-                    rec = {
-                        "id": f"{p.stem}:{heading}:{i}",
-                        "source_title": source_title,
-                        "source_url": "",  # optional: add the public URL if you keep a mapping
-                        "source_type": "doc",
-                        "page_start": None,
-                        "page_end": None,
-                        "section_heading": heading,
-                        "text": piece,
-                        "tags": infer_tags(heading, piece),
-                    }
-                    fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                    count += 1
-    print(f"Built KB with {count} chunks -> {KB}")
+def build_kb():
+    KB_PATH.unlink(missing_ok=True)
+    records = []
+
+    # Use the cleaned .txt files (not data/intermediate)
+    txt_files = sorted((CLEAN_DIR).glob("*.txt"))
+    for f in txt_files:
+        raw = f.read_text(encoding="utf-8", errors="ignore")
+        title = f.stem.replace("_", " ").strip()
+        doc_id = f.stem  # stable per source
+        # scripts/build_kb.py (the version aligned to session_ingest)
+        # inside the per-file loop:
+        pi = 0  # global passage index for this document
+        for heading, body in split_by_headings(raw):
+            for piece in sub_chunk(body, limit=1100):
+                if not piece.strip():
+                    continue
+                tags = infer_tags(heading, piece)
+                category = tags_to_category(tags)
+                rec = {
+                    "doc_id": doc_id,
+                    "source": str(f),
+                    "title": title,
+                    "category": category,
+                    "passage_index": pi,   # <-- global, monotonic
+                    "text": piece
+                }
+                records.append(rec)
+                pi += 1
+
+
+
+
+    # Vectorize texts for retrieval
+    texts = [r["text"] for r in records]
+    vectorizer = TfidfVectorizer(
+        lowercase=True,
+        ngram_range=(1, 2),
+        min_df=1,
+        max_df=0.95
+    )
+    X = vectorizer.fit_transform(texts)
+
+    # Save artifacts where session_ingest expects them
+    with KB_PATH.open("w", encoding="utf-8") as fout:
+        for r in records:
+            fout.write(json.dumps(r, ensure_ascii=False) + "\n")
+    joblib.dump(vectorizer, VEC_PATH)
+    sparse.save_npz(MAT_PATH, X)
+
+    print(f"Built KB: {len(records)} chunks → {KB_PATH}")
+    print(f"Vectorizer → {VEC_PATH}")
+    print(f"Matrix {X.shape} → {MAT_PATH}")
 
 if __name__ == "__main__":
-    main()
+    build_kb()

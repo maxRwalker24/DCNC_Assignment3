@@ -1,0 +1,102 @@
+# Group work: Getting started
+Getting off to a strong start is one of the keys to successful group work.
+This page will guide you through the initial stages of group assignments.
+Here’s a guide to help you through the initial stages:
+## The first steps
+### Initial meeting goals
+Introduce yourselves to each other. Discuss your strengths and hopes for the
+### Brainstorm the task
+Share your understanding of the assessment goal. Aim to reach a consensus on
+## Planning and organisation
+### Develop an agenda
+List topics, actions required, responsible members, and deadlines.
+### Define research tasks
+Decide on tasks and allocate them among members.
+### Create a timeline
+Set deadlines for specific tasks.
+## Communication and meetings
+### Decide on communication tools
+* Options include Google Docs, a wiki, email, instant messaging, etc.
+* Exchange contact details.
+### Schedule meetings
+* Arrange dates, times, and locations that suit everyone.
+* Record the meeting details.
+## Establish a group charter
+**Agree on** principles and expectations for group behaviour.
+## Assign roles
+Groups usually have a number of set roles to help them fuction well and it is
+best to assign these roles at your first team meeting. They include:
+### Group leader
+Responsibilities include:
+* facilitating (not dominating) discussion in the group
+* keeping discussion at meetings on track and to the point
+* making a final decision when group cannot resolve issues
+* calling on the support of a lecturer or tutor to mediate unresolved conflict
+* ensuring that meetings follow the agenda
+* assuring that notes from meetings are sent to group members
+* maintaining an overview of group processes.
+### Note-taker
+Responsibilities include:
+* taking notes of items discussed at meetings, actions decided on, and people responsible for those actions
+* writing out the group's understanding of the assignment task
+* making a list of the allocation of tasks and the due date
+* keeping a list of contact details of group members
+* distributing these notes via agreed communication channels
+* sending out the agenda before meetings.
+### Reflector
+Responsibilities include:
+* identifying and raising issues that are affecting the group
+* acknowledging areas of conflict in the group
+* maintaining an overview of the groups' progress
+* speaking up about possible problems regarding projected time lines.
+### Information gatherer
+Usually, this will be done by more than one person, and it can even be done by
+each person in the group. It involves:
+* looking at the assignment instructions to decide what information is needed (see [ Understanding your assignment](/assessments/getting-started-with-assignments/understanding-your-assignment/))
+* creating a search strategy and identifying relevant databases to search (see [Choosing valid sources)](/assessments/getting-started-with-assignments/choose-valid-sources/)
+* using reading strategies to find relevant information (see [Reading skills).](/university-essentials/study-essentials/reading-skills/)
+### Editor/proofreader
+This role can be done by one or more people. It involves:
+* checking the completed assignment or sections of the assignment for spelling and grammatical errors
+* looking for inconsistences in format and layout
+* identifying areas that could be expressed or explained more clearly
+* making sure that all of the criteria from the assignment instructions have been met.
+* * *
+## Keywords
+* [Assessment](/keyword/assessment/)
+* [Group work](/keyword/group-work/)
+## Embed this page
+How to embed in Canvas LMS
+1. Copy the iframe code above.
+2. Go to the course in Canvas where you want to add the content.
+3. Navigate to the page or module where you want to embed the content.
+4. In the Rich Content Editor, click on the "HTML Editor" link.
+5. Paste the iframe code into the HTML area.
+6. Switch back to the Rich Content Editor to see the embedded content.
+7. Save the changes to your page or module.
+Note: Ensure that your permissions allow embedding external content in your
+Canvas LMS instance.
+[ ![](https://rmitlibrary.github.io/cdn/footer/ask-library-icon-round.svg) Ask
+the Library Get help with finding information, referencing, and using the
+Library. ](https://www.rmit.edu.au/library/about-and-contacts/ask-the-library)
+flag](https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flagred.png) ![torres strait
+flag](https://www.rmit.edu.au/content/dam/rmit/au/en/news/homepage/flaggreen.png)
+## Acknowledgement of Country
+RMIT University acknowledges the people of the Woi wurrung and Boon wurrung
+language groups of the eastern Kulin Nation on whose unceded lands we conduct
+the business of the University. RMIT University respectfully acknowledges
+their Ancestors and Elders, past and present. RMIT also acknowledges the
+Traditional Custodians and their Ancestors of the lands and waters across
+Australia where we conduct our business \- Artwork 'Sentient' by Hollie
+Johnson, Gunaikurnai and Monero Ngarigo.
+[More information](https://www.rmit.edu.au/about/our-values/respect-foraustralian-indigenous-cultures)
+![Abstract artwork titled 'Sentient' by Hollie Johnson, features a complex
+pattern of intersecting blue, green, and yellow lines over a white background
+showing the journeys of life starting, finishing and intersecting. The
+colouring of the line work illustrates the evolution of nature through many
+First Nations stories: the sun, the giver of life \(yellow\), the creation of
+land \(green\), and the sea \(blue\). Red and black concentric diamond and
+semi-circle shapes symbolise men and women respectively, connecting them to
+Ancestors who gave birth to them. The artwork is also a representation of RMIT
+and the experience within our community, culture and
+pathways.](https://www.rmit.edu.au/content/dam/rmit/images/sentient-holliejohnson.jpg)

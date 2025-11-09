@@ -1,0 +1,82 @@
+RMIT Student Guide – Assessment
+How to Access the Assessment Extensions Tool ............................................................................ 2
+Assessment Extensions Dashboard ................................................................................................ 2
+Frequently Asked Questions ........................................................................................................... 3
+What are the different statuses in Assessment Extensions Tool? ................................................ 3
+How to cancel an Assessment Extension Request ...................................................................... 3
+I am unable to view an upcoming assessment in Assessment Extensions ................................... 4
+What happens when my application for an extension request is denied? ..................................... 4
+Queries regarding Assessment Extension Request ..................................................................... 4
+Technical Difficulties in accessing the Assessment Extensions Tool ................................ ............ 4
+Save Date: 18/09/2025
+The Assessment Extensions Tool is a web -based application that simplifies the assessment
+extension process by enabling you to request and manage assessment extension from within your
+How to Access the Assessment Extensions Tool
+The Assessment Extension Tool can be accessed from the Course
+Navigation Menu in Canvas .
+Assessment Extensions Dashboard
+The Assessment Extensions Tool dashboard includes an explanation on “What is an extension?”
+and displays the extension requests that have been submitted by a you for that course.
+Save Date: 18/09/2025
+How to submit an Extension Request
+You can submit a new extension request by clicking on the Request extension tab. An
+assessment extension request must be completed and submitted no later than one business day
+before the official due date of your assessment.
+To submit an extension request, you need to:
+3. Select the assessment for which an extension is being requested (required)
+Select if you are applying for an ELP consideration?
+Select the number of days (maximum of 7 days, unless an ELP consideration) of
+extension requested (required)
+Provide an explanation as to why the extension is being requested (required)
+Provide supporting documents , see Examples of accepted supporting documents
+(ELP considerations require an uploaded copy of your plan)
+Accept the Applicant Declaration Agreement Statement (required) 4.
+Once the request has been submitted, the dashboard will be updated with the new request and the
+status for that request will be set as Pending.
+Frequently Asked Questions
+What are the different statuses in Assessment Extensions Tool?
+Once an assessment extension is submitted, there are three possible statuses associated with
+• Pending – The assessment request has been submitted but is yet to be reviewed by the
+Approved – The assessment request has been approved by the course coordinator
+Denied – The assessment request has been declined by the course coordinator •
+How to cancel an Assessment Extension Request
+You can cancel an assessment extension request if the status of the request is Pending.
+To cancel an application request:
+1. Click on the Extension requests tab
+2. Select the application request that you would like to cancel. Note: You can only cancel a
+request if the status is Pending.
+3. Click on the Cancel button at the bottom of the page to cancel your application request.
+Save Date: 18/09/2025
+I am unable to view an upcoming assessment in Assessment Extensions
+The Assessment Extensions Tool populates the assessment listings and its respective due date
+automatically from Canvas. The following scenarios covers how and when an assessment is
+displayed within the Assessment Extensions Tool:
+1. If an assessment due date is in the future , and there is more than one working day,
+then the assessment will be displayed in the Assessment Extensions Tool.
+2. If an assessment due date is in the future , and there is less than one working day, then
+the assessment will not be displayed in the Assessment Extensions Tool.
+3. If an assessment due date has passed , then the assessment will not be displayed in
+the Assessment Extensions Tool.
+4. If an assessment has no due dates , then the assessment will not be displayed in the
+Assessment Extensions Tool.
+5. If I have been granted an extension approval of a maximum of 7 days via the tool, then
+the assessment will not be displayed in the Assessment Extensions Tool.
+What happens when my application for an extension request is denied?
+If your assessment extension has been denied you may be able to submit a new assessment
+extension request. The possibility of submitting a new request will depend on the assessment
+due date and the feedback provided.
+Before you re-submit a new extension request, it is advised that you review the initial feedback
+If you have any queries about your extension request, please contact your Course Coordinator,
+or Program Manager, directly.
+If your request is ELP related, you can share the request URL with the ELS team directly via
+their email els@rmit.edu.au ,
+Queries regarding Assessment Extension Request
+If you have changed the class that you are enrolled in after your assessment extension has
+been approved , please check that your assignment has the correct new submission date. If
+not, please contact your Course Coordinator or Program Manager, and advise them that you
+If you have any other queries about your extension request, please contact your Course
+Coordinator or Program Manager, directly.
+Technical Difficulties in accessing the Assessment Extensions
+If you experience any technical issues with the Assessment Extensions Tool, please raise a
+support ticket with IT Connect or tel:+61 3 9925 8000.
+Save Date: 18/09/2025
