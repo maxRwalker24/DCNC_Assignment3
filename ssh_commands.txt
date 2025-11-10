@@ -1,3 +1,10 @@
 "C:\Users\User\Documents\RMIT\Year 2\Data Comm\Assignment 3\assignment3-keys.pem"
 
 ssh -i "C:\Users\User\Documents\RMIT\Year 2\Data Comm\Assignment 3\assignment3-keys.pem" ubuntu@3.106.137.74
+
+
+python -m app.chatbot_ui
+
+
+curl -I http://127.0.0.1:7860
+HTTP/1.1 200 OK
