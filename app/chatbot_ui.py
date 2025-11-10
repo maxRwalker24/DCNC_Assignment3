@@ -131,4 +131,5 @@ def build_ui():
 
 if __name__ == "__main__":
     ui = build_ui()
-    ui.launch()
+    ui.launch(server_name="0.0.0.0", server_port=7860)
+
