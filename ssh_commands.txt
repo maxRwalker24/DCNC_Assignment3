@@ -1,0 +1,3 @@
+"C:\Users\User\Documents\RMIT\Year 2\Data Comm\Assignment 3\assignment3-keys.pem"
+
+ssh -i "C:\Users\User\Documents\RMIT\Year 2\Data Comm\Assignment 3\assignment3-keys.pem" ubuntu@3.106.137.74

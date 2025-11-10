@@ -1,24 +1,52 @@
-import re
-import json
+# scripts/build_kb.py
+"""
+Build a lightweight knowledge base (KB) and TF-IDF index from cleaned .txt files.
+
+Pipeline (kept simple for the assignment):
+1) Read cleaned .txt files in data/clean.
+2) Heuristically split each file into (heading, body) sections.
+3) Sub-chunk each body into ~1100-character passages.
+4) Infer simple tags from each (heading + text), then map tags → category.
+5) Emit kb.jsonl (one record per passage) and TF-IDF artefacts for retrieval.
+
+Outputs (where session_ingest.py looks):
+- data/clean/kb.jsonl
+- data/clean/vectorizer.pkl
+- data/clean/matrix.npz
+"""
+
 from pathlib import Path
 from typing import List, Dict, Tuple
+import re
+import json
 
 import joblib
 from scipy import sparse
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-ROOT = Path(__file__).resolve().parents[1]  # project root
+# ---------------------------------------------------------------------------
+# Locations (aligned with session_ingest.py)
+# ---------------------------------------------------------------------------
+
+ROOT = Path(__file__).resolve().parents[1]
 CLEAN_DIR = ROOT / "data" / "clean"
-# where session_ingest.py expects these:
 KB_PATH   = CLEAN_DIR / "kb.jsonl"
 VEC_PATH  = CLEAN_DIR / "vectorizer.pkl"
 MAT_PATH  = CLEAN_DIR / "matrix.npz"
 
-# --- your helpers carried over / adapted ---
 
-def infer_tags(heading: str, text: str):
+# ---------------------------------------------------------------------------
+# Tagging & category mapping (very small, explainable heuristics)
+# ---------------------------------------------------------------------------
+
+def infer_tags(heading: str, text: str) -> List[str]:
+    """
+    Return a small set of tags inferred from the heading + first ~600 chars of text.
+    Purely keyword-based for simplicity & explainability.
+    """
     k = (heading + " " + text[:600]).lower()
-    tags = []
+    tags: List[str] = []
+
     tag_map = [
         # Policy/Admin
         ("integrity", "integrity"),
@@ -34,16 +62,18 @@ def infer_tags(heading: str, text: str):
         ("rpl", "credit"),
         ("grade", "assessment"),
         ("misconduct", "misconduct"),
+
         # Study skills
         ("study", "study"),
         ("time management", "time"),
         ("time-management", "time"),
-        ("referenc", "writing"),
+        ("referenc", "writing"),   # picks up reference/referencing
         ("writing", "writing"),
         ("academic skills", "study"),
         ("learning lab", "study"),
         ("group work", "groupwork"),
         ("team", "groupwork"),
+
         # Identity & Accessibility
         ("equitable learning", "els"),
         ("equitable learning service", "els"),
@@ -71,105 +101,136 @@ def infer_tags(heading: str, text: str):
     for key, tag in tag_map:
         if key in k:
             tags.append(tag)
-    return sorted(set(tags))
+
+    # De-duplicate while preserving order
+    seen = set()
+    out: List[str] = []
+    for t in tags:
+        if t not in seen:
+            out.append(t)
+            seen.add(t)
+    return out
+
 
 def tags_to_category(tags: List[str]) -> str:
     """
-    Map your tags to the role keys used in session_ingest.py.
+    Map tags → the role keys used by session_ingest.py.
+    This keeps the training wheels on and is easy to justify in a report.
     """
     t = set(tags)
-    if t & {"integrity","misconduct","assessment","extensions","special","appeals",
-            "census","enrolment","credit"}:
+    if t & {"integrity", "misconduct", "assessment", "extensions", "special", "appeals",
+            "census", "enrolment", "credit"}:
         return "policy_admin"
-    if t & {"study","time","writing","groupwork"}:
+    if t & {"study", "time", "writing", "groupwork"}:
         return "study_skills"
-    if t & {"els","elp","accessibility","neurodivergent","gender-affirmation","lgbtiqa",
-            "wellbeing","safer-community"}:
+    if t & {"els", "elp", "accessibility", "neurodivergent", "gender-affirmation", "lgbtiqa",
+            "wellbeing", "safer-community"}:
         return "identity_access"
     return "general"
 
-def split_by_headings(text: str):
+
+# ---------------------------------------------------------------------------
+# Sectioning & chunking
+# ---------------------------------------------------------------------------
+
+def split_by_headings(text: str) -> List[Tuple[str, str]]:
     """
-    Split by Markdown headings OR ALL-CAPS headings as a heuristic.
-    Returns list[(heading, body)].
+    Split a document into (heading, body) pairs.
+    Heuristics:
+      - Markdown headings:   ^#{1,6}\s.*
+      - ALL-CAPS headings:   ^[A-Z][A-Z0-9 ,\-&/]{6,}$
     """
     parts = re.split(r'(?m)^(#{1,6}\s.*|[A-Z][A-Z0-9 ,\-&/]{6,})\s*$', text)
-    chunks = []
+    chunks: List[Tuple[str, str]] = []
+
+    # Anything before the first heading
     if parts and parts[0].strip():
         chunks.append(("Introduction", parts[0].strip()))
+
+    # (heading, body) pairs
     for i in range(1, len(parts), 2):
         heading = parts[i].strip()
-        body = parts[i+1].strip() if i+1 < len(parts) else ""
+        body = parts[i + 1].strip() if i + 1 < len(parts) else ""
         chunks.append((heading or "Section", body))
+
     return chunks
 
-def sub_chunk(text: str, limit=1100):
-    # Split by sentence-ish boundaries, enforce ~1.1k char chunks
+
+def sub_chunk(text: str, limit: int = 1100) -> List[str]:
+    """
+    Break a section body into ~`limit`-char passages by sentence-ish boundaries.
+    Very simple and explainable; good enough for TF-IDF retrieval granularity.
+    """
     sents = re.split(r'(?<=[.?!])\s+', text)
     buf, out = "", []
     for s in sents:
-        if len(buf) + len(s) > limit and buf:
+        if buf and (len(buf) + len(s) > limit):
             out.append(buf.strip())
             buf = s
         else:
-            buf = (buf + " " + s).strip()
+            buf = (buf + " " + s).strip() if buf else s
     if buf:
-        out.append(buf)
+        out.append(buf.strip())
     return out
 
-def build_kb():
-    KB_PATH.unlink(missing_ok=True)
-    records = []
 
-    # Use the cleaned .txt files (not data/intermediate)
-    txt_files = sorted((CLEAN_DIR).glob("*.txt"))
+# ---------------------------------------------------------------------------
+# Build KB + TF-IDF artefacts
+# ---------------------------------------------------------------------------
+
+def build_kb() -> None:
+    """Create kb.jsonl + vectorizer.pkl + matrix.npz from data/clean/*.txt."""
+    KB_PATH.unlink(missing_ok=True)
+
+    records: List[Dict] = []
+
+    # Iterate cleaned .txt files (stable order for reproducibility)
+    txt_files = sorted(CLEAN_DIR.glob("*.txt"))
     for f in txt_files:
         raw = f.read_text(encoding="utf-8", errors="ignore")
         title = f.stem.replace("_", " ").strip()
         doc_id = f.stem  # stable per source
-        # scripts/build_kb.py (the version aligned to session_ingest)
-        # inside the per-file loop:
-        pi = 0  # global passage index for this document
+
+        pi = 0  # monotonic passage index per document
         for heading, body in split_by_headings(raw):
             for piece in sub_chunk(body, limit=1100):
                 if not piece.strip():
                     continue
                 tags = infer_tags(heading, piece)
                 category = tags_to_category(tags)
-                rec = {
+                records.append({
                     "doc_id": doc_id,
                     "source": str(f),
                     "title": title,
                     "category": category,
-                    "passage_index": pi,   # <-- global, monotonic
-                    "text": piece
-                }
-                records.append(rec)
+                    "passage_index": pi,
+                    "text": piece,
+                })
                 pi += 1
 
-
-
-
-    # Vectorize texts for retrieval
+    # Vectorize texts for retrieval (small, transparent config)
     texts = [r["text"] for r in records]
     vectorizer = TfidfVectorizer(
         lowercase=True,
         ngram_range=(1, 2),
         min_df=1,
-        max_df=0.95
+        max_df=0.95,
     )
     X = vectorizer.fit_transform(texts)
 
-    # Save artifacts where session_ingest expects them
+    # Persist artefacts where session_ingest.py expects them
+    KB_PATH.parent.mkdir(parents=True, exist_ok=True)
     with KB_PATH.open("w", encoding="utf-8") as fout:
         for r in records:
             fout.write(json.dumps(r, ensure_ascii=False) + "\n")
+
     joblib.dump(vectorizer, VEC_PATH)
     sparse.save_npz(MAT_PATH, X)
 
-    print(f"Built KB: {len(records)} chunks → {KB_PATH}")
-    print(f"Vectorizer → {VEC_PATH}")
-    print(f"Matrix {X.shape} → {MAT_PATH}")
+    print(f"✅ Built KB: {len(records)} chunks → {KB_PATH}")
+    print(f"✅ Vectorizer → {VEC_PATH}")
+    print(f"✅ Matrix {X.shape} → {MAT_PATH}")
+
 
 if __name__ == "__main__":
     build_kb()
