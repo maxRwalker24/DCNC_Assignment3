@@ -42,7 +42,7 @@ MAT_PATH  = CLEAN_DIR / "matrix.npz"
 def infer_tags(heading: str, text: str) -> List[str]:
     """
     Return a small set of tags inferred from the heading + first ~600 chars of text.
-    Purely keyword-based for simplicity & explainability.
+    Purely keyword-based.
     """
     k = (heading + " " + text[:600]).lower()
     tags: List[str] = []
@@ -115,7 +115,7 @@ def infer_tags(heading: str, text: str) -> List[str]:
 def tags_to_category(tags: List[str]) -> str:
     """
     Map tags → the role keys used by session_ingest.py.
-    This keeps the training wheels on and is easy to justify in a report.
+   
     """
     t = set(tags)
     if t & {"integrity", "misconduct", "assessment", "extensions", "special", "appeals",
@@ -159,7 +159,6 @@ def split_by_headings(text: str) -> List[Tuple[str, str]]:
 def sub_chunk(text: str, limit: int = 1100) -> List[str]:
     """
     Break a section body into ~`limit`-char passages by sentence-ish boundaries.
-    Very simple and explainable; good enough for TF-IDF retrieval granularity.
     """
     sents = re.split(r'(?<=[.?!])\s+', text)
     buf, out = "", []

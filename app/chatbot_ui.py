@@ -8,7 +8,6 @@ Flow:
 - We call Bedrock (Claude) with the prompt and render the reply.
 - We also show the retrieved context and citations for transparency.
 
-This file keeps the UI minimal and assignment-friendly.
 """
 
 import gradio as gr

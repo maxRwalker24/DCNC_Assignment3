@@ -1,6 +1,6 @@
 # app/session_ingest.py
 """
-Session ingestion, retrieval, and prompt assembly for the RMIT chatbot.
+Session ingestion, retrieval, and prompt assembly.
 
 Responsibilities
 ---------------
@@ -14,9 +14,7 @@ Responsibilities
 
 Notes
 -----
-- This file is intentionally simple and well-commented for the assignment.
-- “Auto (recommended)” role uses rule-based keyword detection to prefer a category
-  but does not hard-filter (it biases scoring instead).
+- “Auto (recommended)” role uses rule-based keyword detection to prefer a category but does not hard-filter (it biases scoring instead).
 """
 
 import os
@@ -122,7 +120,6 @@ def _load_kb() -> List[Dict]:
 def _expand_query(q: str) -> str:
     """
     Lightweight normalization + synonym expansion to improve TF-IDF hit rate.
-    Keep this tiny so it's easy to explain in the assignment.
     """
     ql = q.lower()
 
@@ -168,7 +165,7 @@ def _is_mental_intent(query: str) -> bool:
 def _doc_boost(rec: Dict, is_mental: bool) -> float:
     """
     Small additive boost if the query looks mental-health related and the record
-    appears to be wellbeing content. Keep values tiny so they just break ties.
+    appears to be wellbeing content. Kept values tiny so they just break ties.
     """
     if not is_mental:
         return 0.0
