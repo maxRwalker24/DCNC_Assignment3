@@ -83,7 +83,7 @@ def build_ui():
         gr.Markdown("# 🎓 RMIT Student Support Chatbot")
         gr.Markdown(
             "Ask questions about **policies/admin**, **study skills**, or **identity & accessibility**.\n\n"
-            "The bot retrieves relevant snippets from your local corpus and cites sources as `[S#]`."
+            "The bot retrieves relevant snippets from the local corpus and cites sources as `[S#]`."
         )
 
         # Controls row: role (with Auto), retrieval top-K, sampling params
